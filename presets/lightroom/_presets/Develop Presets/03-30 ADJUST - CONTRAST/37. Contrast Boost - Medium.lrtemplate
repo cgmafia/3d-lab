@@ -1,0 +1,14 @@
+s = {
+	id = "35C1E193-ED31-472F-A934-AF1FC452A6C9",
+	internalName = "34 Medium Boost",
+	title = "37. Contrast Boost - Medium",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = 50,
+			ProcessVersion = "6.7",
+		},
+		uuid = "4172A0CF-E85C-409B-8D6A-A8083D4C85BC",
+	},
+	version = 0,
+}

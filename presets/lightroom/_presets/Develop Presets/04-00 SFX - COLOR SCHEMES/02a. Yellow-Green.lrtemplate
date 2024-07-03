@@ -1,0 +1,19 @@
+s = {
+	id = "4290323A-C2C3-4AB9-A55D-F50E7806F734",
+	internalName = "22 Orange/Red",
+	title = "02a. Yellow/Green",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 30,
+			SplitToningHighlightHue = 60,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 120,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "41FAB4EB-2E04-4530-B65B-F4DE54072CC7",
+	},
+	version = 0,
+}

@@ -1,0 +1,18 @@
+s = {
+	id = "83A0CDFB-28EE-402B-AF83-B11F8D860656",
+	internalName = "17 Medium HDR Boost",
+	title = "13b. HDR Boost - Medium",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 50,
+			Contrast2012 = 50,
+			Highlights2012 = -50,
+			ProcessVersion = "6.7",
+			Shadows2012 = 50,
+			Whites2012 = -50,
+		},
+		uuid = "88006111-2260-4807-960F-34FA96109F9B",
+	},
+	version = 0,
+}

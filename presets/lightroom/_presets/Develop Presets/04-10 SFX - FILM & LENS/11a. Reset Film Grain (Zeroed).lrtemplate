@@ -1,0 +1,17 @@
+s = {
+	id = "75937B56-5D93-47BD-BA09-8AF09504641F",
+	internalName = "01 Reset Film Grain",
+	title = "11a. Reset Film Grain (Zeroed)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 0,
+			GrainFrequency = 50,
+			GrainSize = 25,
+			ProcessVersion = "6.7",
+		},
+		uuid = "CA6AC9EB-D602-4B7B-B85A-4C97E93F4E8F",
+	},
+	version = 0,
+}

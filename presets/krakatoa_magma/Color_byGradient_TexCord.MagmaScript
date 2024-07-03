@@ -1,0 +1,88 @@
+(--MAGMAFLOW2--
+global MagmaFlowEditor_EditBLOPHistory = #()
+magmaNode.note=""
+node0 = magmaNode.createNode "Output" 
+magmaNode.setNumNodeInputs node0 1 
+magmaNode.setNumNodeOutputs node0 0 
+magmaNode.setNodeProperty node0 "channelName" "TextureCoord"
+magmaNode.setNodeProperty node0 "channelType" "float16[3]"
+magmaNode.DeclareExtensionProperty node0 "Name"
+magmaNode.SetNodeProperty node0 "Name" "Output"
+magmaNode.DeclareExtensionProperty node0 "Position"
+magmaNode.SetNodeProperty node0 "Position" [830,50]
+--------------------------------------------
+node1 = magmaNode.createNode "InputChannel" 
+magmaNode.setNumNodeInputs node1 0 
+magmaNode.setNumNodeOutputs node1 1 
+magmaNode.setNodeProperty node1 "channelName" "Velocity"
+magmaNode.setNodeProperty node1 "channelType" ""
+magmaNode.DeclareExtensionProperty node1 "Name"
+magmaNode.SetNodeProperty node1 "Name" "Velocity"
+magmaNode.DeclareExtensionProperty node1 "Position"
+magmaNode.SetNodeProperty node1 "Position" [130,50]
+magmaNode.DeclareExtensionProperty node1 "Selected"
+magmaNode.SetNodeProperty node1 "Selected" true
+--------------------------------------------
+node2 = magmaNode.createNode "Magnitude" 
+magmaNode.setNumNodeInputs node2 1 
+magmaNode.setNumNodeOutputs node2 1 
+magmaNode.DeclareExtensionProperty node2 "Name"
+magmaNode.SetNodeProperty node2 "Name" "Magnitude"
+magmaNode.DeclareExtensionProperty node2 "Position"
+magmaNode.SetNodeProperty node2 "Position" [300,30]
+--------------------------------------------
+node3 = magmaNode.createNode "Divide" 
+magmaNode.setNumNodeInputs node3 2 
+magmaNode.setNumNodeOutputs node3 1 
+magmaNode.setNodeInputDefaultValue node3 1 1.0
+magmaNode.setNodeInputDefaultValue node3 2 1.0
+magmaNode.DeclareExtensionProperty node3 "Name"
+magmaNode.SetNodeProperty node3 "Name" "Divide"
+magmaNode.DeclareExtensionProperty node3 "Position"
+magmaNode.SetNodeProperty node3 "Position" [470,50]
+--------------------------------------------
+node4 = magmaNode.createNode "InputValue" 
+magmaNode.setNumNodeInputs node4 0 
+magmaNode.setNumNodeOutputs node4 1 
+magmaNode.setNodeProperty node4 "forceInteger" false
+ctrl=bezier_float(); ctrl.value = 120.0
+magmaNode.setNodeProperty node4 "controller" ctrl
+magmaNode.DeclareExtensionProperty node4 "Exposed"
+magmaNode.SetNodeProperty node4 "Exposed" true
+magmaNode.DeclareExtensionProperty node4 "Name"
+magmaNode.SetNodeProperty node4 "Name" "Scale"
+magmaNode.DeclareExtensionProperty node4 "Position"
+magmaNode.SetNodeProperty node4 "Position" [320,150]
+--------------------------------------------
+node5 = magmaNode.createNode "ToVector" 
+magmaNode.setNumNodeInputs node5 3 
+magmaNode.setNumNodeOutputs node5 1 
+magmaNode.setNodeInputDefaultValue node5 1 0.0
+magmaNode.setNodeInputDefaultValue node5 2 0.0
+magmaNode.setNodeInputDefaultValue node5 3 0.0
+magmaNode.DeclareExtensionProperty node5 "Name"
+magmaNode.SetNodeProperty node5 "Name" "ToVector"
+magmaNode.DeclareExtensionProperty node5 "Position"
+magmaNode.SetNodeProperty node5 "Position" [650,50]
+--------------------------------------------
+node6 = magmaNode.createNode "InputValue" 
+magmaNode.setNumNodeInputs node6 0 
+magmaNode.setNumNodeOutputs node6 1 
+magmaNode.setNodeProperty node6 "forceInteger" false
+ctrl=bezier_float(); ctrl.value = 0.0
+magmaNode.setNodeProperty node6 "controller" ctrl
+magmaNode.DeclareExtensionProperty node6 "Name"
+magmaNode.SetNodeProperty node6 "Name" "Float"
+magmaNode.DeclareExtensionProperty node6 "Position"
+magmaNode.SetNodeProperty node6 "Position" [560,180]
+--------------------------------------------
+try(magmaNode.setNodeInput node0 1 node5 1)catch()
+try(magmaNode.setNodeInput node2 1 node1 1)catch()
+try(magmaNode.setNodeInput node3 1 node2 1)catch()
+try(magmaNode.setNodeInput node3 2 node4 1)catch()
+try(magmaNode.setNodeInput node5 1 node3 1)catch()
+try(magmaNode.setNodeInput node5 2 node6 1)catch()
+try(magmaNode.setNodeInput node5 3 node6 1)catch()
+--------------------------------------------
+)
+

@@ -1,0 +1,60 @@
+(--MAGMAFLOW2--
+global MagmaFlowEditor_EditBLOPHistory = #()
+magmaNode.note=""
+node0 = magmaNode.createNode "InputTexmap" 
+magmaNode.setNumNodeInputs node0 0 
+magmaNode.setNumNodeOutputs node0 1 
+magmaNode.setNodeProperty node0 "resultType" "Color"
+try(theMaps = getClassInstances Noise 
+for m in theMaps where m.name == "Map #44" do magmaNode.setNodeProperty node0 "texmap" m)catch() 
+magmaNode.setNodeProperty node0 "channels" #()
+magmaNode.DeclareExtensionProperty node0 "Position"
+magmaNode.SetNodeProperty node0 "Position" [530,100]
+--------------------------------------------
+node1 = magmaNode.createNode "Output" 
+magmaNode.setNumNodeInputs node1 1 
+magmaNode.setNumNodeOutputs node1 0 
+magmaNode.setNodeProperty node1 "channelName" "Density"
+magmaNode.setNodeProperty node1 "channelType" "float16"
+magmaNode.DeclareExtensionProperty node1 "Position"
+magmaNode.SetNodeProperty node1 "Position" [520,140]
+--------------------------------------------
+node2 = magmaNode.createNode "Multiply" 
+magmaNode.setNumNodeInputs node2 2 
+magmaNode.setNumNodeOutputs node2 1 
+magmaNode.setNodeInputDefaultValue node2 1 1.0
+magmaNode.setNodeInputDefaultValue node2 2 1.0
+magmaNode.DeclareExtensionProperty node2 "Position"
+magmaNode.SetNodeProperty node2 "Position" [790,140]
+--------------------------------------------
+node3 = magmaNode.createNode "InputValue" 
+magmaNode.setNumNodeInputs node3 0 
+magmaNode.setNumNodeOutputs node3 1 
+magmaNode.setNodeProperty node3 "forceInteger" false
+ctrl=bezier_float(); ctrl.value = 0.5
+magmaNode.setNodeProperty node3 "controller" ctrl
+magmaNode.DeclareExtensionProperty node3 "Position"
+magmaNode.SetNodeProperty node3 "Position" [590,240]
+--------------------------------------------
+node4 = magmaNode.createNode "Magnitude" 
+magmaNode.setNumNodeInputs node4 1 
+magmaNode.setNumNodeOutputs node4 1 
+magmaNode.DeclareExtensionProperty node4 "Position"
+magmaNode.SetNodeProperty node4 "Position" [790,30]
+--------------------------------------------
+node5 = magmaNode.createNode "Output" 
+magmaNode.setNumNodeInputs node5 1 
+magmaNode.setNumNodeOutputs node5 0 
+magmaNode.setNodeProperty node5 "channelName" "PRTViewportColor"
+magmaNode.setNodeProperty node5 "channelType" "float16[3]"
+magmaNode.DeclareExtensionProperty node5 "Position"
+magmaNode.SetNodeProperty node5 "Position" [1010,100]
+--------------------------------------------
+try(magmaNode.setNodeInput node1 1 node4 1)catch()
+try(magmaNode.setNodeInput node2 1 node0 1)catch()
+try(magmaNode.setNodeInput node2 2 node3 1)catch()
+try(magmaNode.setNodeInput node4 1 node2 1)catch()
+try(magmaNode.setNodeInput node5 1 node2 1)catch()
+--------------------------------------------
+)
+

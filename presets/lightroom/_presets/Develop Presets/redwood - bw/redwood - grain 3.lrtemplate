@@ -1,0 +1,26 @@
+s = {
+	id = "BE26234B-7C49-44A9-ABB9-C5BC52B0B7A4",
+	internalName = "my grain",
+	title = "redwood - grain 3",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera Standard",
+			EnableCalibration = true,
+			EnableEffects = true,
+			GrainAmount = 35,
+			GrainFrequency = 45,
+			GrainSize = 53,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			ProcessVersion = "6.7",
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "813B80C5-3CD9-428C-8372-29AC0F9E1588",
+	},
+	version = 0,
+}

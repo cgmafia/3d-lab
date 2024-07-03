@@ -1,0 +1,17 @@
+s = {
+	id = "E18C6D09-4E22-4C7A-9B89-05A27706667B",
+	internalName = "10b Reset Base Tones (Zeroed)",
+	title = "10. RESET (Zeroed)",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 0,
+			Highlights2012 = 0,
+			ProcessVersion = "6.7",
+			Shadows2012 = 0,
+			Whites2012 = 0,
+		},
+		uuid = "DB9DF7AE-B9FC-4EB4-83EC-782C5B2E6FB7",
+	},
+	version = 0,
+}

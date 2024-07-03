@@ -1,0 +1,17 @@
+s = {
+	id = "039A4D65-1F91-44A8-BFB8-4C805954FA55",
+	internalName = "13 Medium Portrait Flatten",
+	title = "11c. Portrait Flatten - Heavy",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 5,
+			Highlights2012 = -60,
+			ProcessVersion = "6.7",
+			Shadows2012 = 5,
+			Whites2012 = -40,
+		},
+		uuid = "369653F2-D572-471C-9C11-1E1EB29E36A8",
+	},
+	version = 0,
+}

@@ -1,0 +1,14 @@
+s = {
+	id = "5D6FB412-828B-4E7B-BE57-AF7FA217B15D",
+	internalName = "04 Shadows +51",
+	title = "04 Shadows +51",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Shadows2012 = 51,
+		},
+		uuid = "829EA7BF-4F18-4665-8714-66AD3D682128",
+	},
+	version = 0,
+}

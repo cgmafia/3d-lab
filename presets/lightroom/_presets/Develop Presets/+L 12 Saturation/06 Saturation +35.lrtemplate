@@ -1,0 +1,15 @@
+s = {
+	id = "3FD2F35E-7FFB-4C04-B10B-F2470D87849D",
+	internalName = "06 Saturation +35",
+	title = "06 Saturation +35",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ProcessVersion = "6.7",
+			Saturation = 35,
+		},
+		uuid = "D2BA6BEF-60C7-4DCA-A641-E3D2898360FE",
+	},
+	version = 0,
+}

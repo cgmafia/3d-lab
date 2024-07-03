@@ -1,0 +1,14 @@
+s = {
+	id = "6BFD93B5-FA09-477B-8E76-B04B99CFF43D",
+	internalName = "22 Heavy Soften (Skin)",
+	title = "21. Detail Soften - Heavy (Portraits)",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = -20,
+			ProcessVersion = "6.7",
+		},
+		uuid = "2416BAF4-A6A4-45C0-BEF2-C65A94A4FDE4",
+	},
+	version = 0,
+}

@@ -1,0 +1,19 @@
+s = {
+	id = "B84C039C-2DD8-444A-9383-4144778235B9",
+	internalName = "14 Teal/Violet",
+	title = "01d. Red/Green",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 30,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 120,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "AE064C3C-8105-47C6-84DC-6E2EED14E35A",
+	},
+	version = 0,
+}

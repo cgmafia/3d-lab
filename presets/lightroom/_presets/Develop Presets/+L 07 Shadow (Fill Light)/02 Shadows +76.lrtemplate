@@ -1,0 +1,14 @@
+s = {
+	id = "2BA39DE1-5949-4363-80A0-0D659B548EAA",
+	internalName = "02 Shadows +76",
+	title = "02 Shadows +76",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Shadows2012 = 76,
+		},
+		uuid = "E2511A34-57D3-42C3-8564-311B536673AB",
+	},
+	version = 0,
+}

@@ -1,0 +1,15 @@
+s = {
+	id = "08A2EA02-759D-4620-A387-2F4A65FB3BE0",
+	internalName = "02000",
+	title = "02000",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 2000,
+			Tint = 10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "68EA635D-5FE6-458E-A8AD-CBC72391AA07",
+	},
+	version = 0,
+}

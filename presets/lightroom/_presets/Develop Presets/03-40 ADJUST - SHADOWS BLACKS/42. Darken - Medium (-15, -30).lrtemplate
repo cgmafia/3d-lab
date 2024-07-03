@@ -1,0 +1,15 @@
+s = {
+	id = "07DC39D1-2F24-40E2-80A8-46CD9CCEFC89",
+	internalName = "44 Medium Darken",
+	title = "42. Darken - Medium (-15, -30)",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -30,
+			ProcessVersion = "6.7",
+			Shadows2012 = -15,
+		},
+		uuid = "59F5FB39-78B4-4964-AC7C-E4C81F855F51",
+	},
+	version = 0,
+}

@@ -1,0 +1,14 @@
+s = {
+	id = "2B1ECB5E-77A3-4FEB-9EFD-7AF9848BDDEB",
+	internalName = "33 Light Boost",
+	title = "36. Contrast Boost - Light",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = 25,
+			ProcessVersion = "6.7",
+		},
+		uuid = "A2769949-1DA3-4C31-BE4E-CAE0E0F881F9",
+	},
+	version = 0,
+}

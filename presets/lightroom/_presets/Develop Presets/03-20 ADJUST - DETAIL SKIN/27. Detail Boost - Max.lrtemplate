@@ -1,0 +1,14 @@
+s = {
+	id = "50C61BD4-D005-41C4-9C74-A4246498EC11",
+	internalName = "25_Heavy Detail Pop",
+	title = "27. Detail Boost - Max",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 60,
+			ProcessVersion = "6.7",
+		},
+		uuid = "9DD6C52D-B80F-4B4C-A943-3C88D3E7E0C4",
+	},
+	version = 0,
+}

@@ -1,0 +1,15 @@
+s = {
+	id = "2B407BEF-BC13-4508-B158-CDE425114D14",
+	internalName = "08500",
+	title = "08500",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 8500,
+			Tint = 10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "80527DC1-8A19-439E-AFCC-421CD88B9B12",
+	},
+	version = 0,
+}

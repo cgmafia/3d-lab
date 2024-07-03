@@ -1,0 +1,46 @@
+s = {
+	id = "457127F7-2433-4299-8985-434613B99974",
+	internalName = "00 Reset Warm Curves (Standard)",
+	title = "20. RESET CURVE",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ProcessVersion = "6.7",
+			ToneCurveName2012 = "Linear",
+			ToneCurvePV2012 = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Blue = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Green = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Red = {
+				0,
+				0,
+				255,
+				255,
+			},
+		},
+		uuid = "370D4EF9-D7AB-4F58-9630-38977C04DEE8",
+	},
+	version = 0,
+}

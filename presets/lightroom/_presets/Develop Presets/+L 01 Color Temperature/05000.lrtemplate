@@ -1,0 +1,15 @@
+s = {
+	id = "DA3BE200-658E-4650-8C1D-64C388305F9E",
+	internalName = "05000",
+	title = "05000",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 5000,
+			Tint = 10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "BDB141EB-7ACD-4766-8449-9D4B51398AA3",
+	},
+	version = 0,
+}

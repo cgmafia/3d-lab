@@ -1,0 +1,15 @@
+s = {
+	id = "616742B8-7C57-44C3-9161-CCFEECF0D52E",
+	internalName = "20 Haze 100",
+	title = "20 Dehaze 100 — Max",
+	type = "Develop",
+	value = {
+		settings = {
+			Dehaze = 100,
+			EnableEffects = true,
+			ProcessVersion = "6.7",
+		},
+		uuid = "5119AC84-2C88-4990-86F2-8AFEA3652D04",
+	},
+	version = 0,
+}

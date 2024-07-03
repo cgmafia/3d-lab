@@ -1,0 +1,13 @@
+s = {
+	id = "8103CFAF-1F02-47D0-AC69-053213229405",
+	internalName = "20 <----------- ANALAGOUS",
+	title = "02 <------------------ ANALOGOUS",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+		},
+		uuid = "6E9CCCC2-66FB-43C8-A7B4-EED9FED5ED52",
+	},
+	version = 0,
+}

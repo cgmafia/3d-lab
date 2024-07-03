@@ -1,0 +1,14 @@
+s = {
+	id = "9C46A437-D043-4EF6-A902-297953350E68",
+	internalName = "03_ +1/2 Stop Exposure + Standard",
+	title = "05. Neutral                   0.0",
+	type = "Develop",
+	value = {
+		settings = {
+			Exposure2012 = 0,
+			ProcessVersion = "6.7",
+		},
+		uuid = "92838F5D-8858-4C3A-9C10-585A9F7AE253",
+	},
+	version = 0,
+}

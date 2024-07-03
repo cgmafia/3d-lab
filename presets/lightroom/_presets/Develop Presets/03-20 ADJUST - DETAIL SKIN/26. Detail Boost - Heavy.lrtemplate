@@ -1,0 +1,14 @@
+s = {
+	id = "024D61C4-B38D-460A-BA7D-67040A279781",
+	internalName = "24_Medium Detail Pop",
+	title = "26. Detail Boost - Heavy",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 45,
+			ProcessVersion = "6.7",
+		},
+		uuid = "DA274F33-33E3-4118-8385-CABF2092FD4C",
+	},
+	version = 0,
+}

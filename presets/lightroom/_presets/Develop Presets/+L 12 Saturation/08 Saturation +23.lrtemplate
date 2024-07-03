@@ -1,0 +1,15 @@
+s = {
+	id = "FBFDAEA8-E48E-449A-87E8-5CE5A49AAE87",
+	internalName = "08 Saturation +23",
+	title = "08 Saturation +23",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ProcessVersion = "6.7",
+			Saturation = 23,
+		},
+		uuid = "CF998204-4B71-4CBE-BF06-7A049A9B3494",
+	},
+	version = 0,
+}

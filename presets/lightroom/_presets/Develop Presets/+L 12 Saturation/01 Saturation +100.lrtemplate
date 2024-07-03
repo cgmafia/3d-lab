@@ -1,0 +1,15 @@
+s = {
+	id = "962500A5-5AA0-4C91-8F26-3EF2315FDEEE",
+	internalName = "01 Saturation +100",
+	title = "01 Saturation +100",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ProcessVersion = "6.7",
+			Saturation = 100,
+		},
+		uuid = "D7558F94-D1D2-4753-B766-714DC616E95C",
+	},
+	version = 0,
+}

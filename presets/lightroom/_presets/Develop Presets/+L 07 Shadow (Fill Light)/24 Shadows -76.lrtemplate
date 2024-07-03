@@ -1,0 +1,14 @@
+s = {
+	id = "9EAFAEAE-0A9B-4585-8064-BE3A2FCF06DC",
+	internalName = "24 Shadows -76",
+	title = "24 Shadows -76",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Shadows2012 = -76,
+		},
+		uuid = "7AC05CD1-B2A5-4DEC-A9FD-5736584665B4",
+	},
+	version = 0,
+}

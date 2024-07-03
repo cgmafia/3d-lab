@@ -1,0 +1,14 @@
+s = {
+	id = "11F86763-D15D-4242-B9EF-051749C20B58",
+	internalName = "10 Shadows +13",
+	title = "10 Shadows +13",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Shadows2012 = 13,
+		},
+		uuid = "9BF350F4-15B0-437F-B8B4-6E8AF41E37F6",
+	},
+	version = 0,
+}

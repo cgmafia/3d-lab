@@ -1,0 +1,15 @@
+s = {
+	id = "CDD12E75-A8B4-43C3-830A-B9671489FB52",
+	internalName = "03 Haze -58",
+	title = "03 Dehaze -58",
+	type = "Develop",
+	value = {
+		settings = {
+			Dehaze = -58,
+			EnableEffects = true,
+			ProcessVersion = "6.7",
+		},
+		uuid = "1D94110D-4642-454E-88CF-F2C289232E06",
+	},
+	version = 0,
+}

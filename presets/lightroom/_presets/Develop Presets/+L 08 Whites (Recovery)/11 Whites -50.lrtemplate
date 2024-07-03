@@ -1,0 +1,14 @@
+s = {
+	id = "2D52EC5D-CC72-41D1-BF4C-D62F266DB838",
+	internalName = "11 Whites -50   - - -",
+	title = "11 Whites -50",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Whites2012 = -50,
+		},
+		uuid = "B52FF204-C74B-4B9F-91A0-366EC1018DE0",
+	},
+	version = 0,
+}

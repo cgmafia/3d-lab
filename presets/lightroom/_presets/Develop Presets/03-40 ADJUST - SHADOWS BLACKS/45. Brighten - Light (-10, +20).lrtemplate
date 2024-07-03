@@ -1,0 +1,15 @@
+s = {
+	id = "3E1715AD-5FEB-4C95-98D7-AC010FE1B401",
+	internalName = "45. Brighten - Light (-10, +20)",
+	title = "45. Brighten - Light (-10, +20)",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 20,
+			ProcessVersion = "6.7",
+			Shadows2012 = -10,
+		},
+		uuid = "CD1F7546-548E-4C24-B64C-8A228289CB73",
+	},
+	version = 0,
+}

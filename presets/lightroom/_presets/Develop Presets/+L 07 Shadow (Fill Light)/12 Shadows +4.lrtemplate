@@ -1,0 +1,14 @@
+s = {
+	id = "A564624D-52B4-42A1-A7B0-2A1DA2DD57DF",
+	internalName = "12 Shadows +4",
+	title = "12 Shadows +4",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Shadows2012 = 4,
+		},
+		uuid = "E9CC44E5-1C35-4478-ADFC-1100580982B2",
+	},
+	version = 0,
+}

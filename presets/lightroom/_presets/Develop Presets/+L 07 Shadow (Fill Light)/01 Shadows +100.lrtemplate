@@ -1,0 +1,14 @@
+s = {
+	id = "9DD456D5-464D-4D7C-86A5-A1FB63E24B7C",
+	internalName = "01 Shadows +100",
+	title = "01 Shadows +100",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Shadows2012 = 100,
+		},
+		uuid = "8260BEDF-ED5F-49CD-985B-FBE5DF43040C",
+	},
+	version = 0,
+}

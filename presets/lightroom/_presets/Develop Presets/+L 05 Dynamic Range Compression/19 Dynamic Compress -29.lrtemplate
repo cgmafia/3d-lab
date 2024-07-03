@@ -1,0 +1,15 @@
+s = {
+	id = "8D47EED8-F718-40C8-9CA0-E63343DA211B",
+	internalName = "19 Dynamic Compress -29",
+	title = "19 Dynamic Compress -29",
+	type = "Develop",
+	value = {
+		settings = {
+			Highlights2012 = 29,
+			ProcessVersion = "6.7",
+			Shadows2012 = -29,
+		},
+		uuid = "0912B59E-1B39-4860-8142-9573F7B07234",
+	},
+	version = 0,
+}

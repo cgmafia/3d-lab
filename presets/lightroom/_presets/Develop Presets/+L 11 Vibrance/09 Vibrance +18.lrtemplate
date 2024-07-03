@@ -1,0 +1,15 @@
+s = {
+	id = "2C6D11A5-BF00-418B-B146-1BD60AA30101",
+	internalName = "09 Vibrance +18",
+	title = "09 Vibrance +18",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ProcessVersion = "6.7",
+			Vibrance = 18,
+		},
+		uuid = "EE2F8A21-6B38-41DC-815C-FB2A2245627A",
+	},
+	version = 0,
+}

@@ -1,0 +1,16 @@
+s = {
+	id = "0AA81795-F77F-46A6-8857-FF59AC6A1F9E",
+	internalName = "04_Light Vignette",
+	title = "71d. Vignette - Light",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableLensCorrections = true,
+			ProcessVersion = "6.7",
+			VignetteAmount = -30,
+			VignetteMidpoint = 30,
+		},
+		uuid = "913E9277-E9AB-4595-9C28-AE1BD3124BB3",
+	},
+	version = 0,
+}

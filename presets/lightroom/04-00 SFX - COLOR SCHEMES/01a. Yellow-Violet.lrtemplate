@@ -1,0 +1,19 @@
+s = {
+	id = "6A37A1EA-27CE-4DBF-955A-DA9FBA2BA35D",
+	internalName = "12 Yellow/Purple",
+	title = "01a. Yellow/Violet",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 30,
+			SplitToningHighlightHue = 60,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 300,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "EB38F920-673F-44D7-8BF7-7C92435FB24B",
+	},
+	version = 0,
+}

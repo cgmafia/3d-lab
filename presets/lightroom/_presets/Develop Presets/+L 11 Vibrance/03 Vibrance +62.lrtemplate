@@ -1,0 +1,15 @@
+s = {
+	id = "69E50580-680E-4157-BA31-44CE5C5380CE",
+	internalName = "03 Vibrance +62",
+	title = "03 Vibrance +62",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ProcessVersion = "6.7",
+			Vibrance = 62,
+		},
+		uuid = "584246D1-6C92-47F2-937E-6F5D2E135175",
+	},
+	version = 0,
+}

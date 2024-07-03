@@ -1,0 +1,14 @@
+s = {
+	id = "46A06E2C-5DB6-4A4C-8DBD-957E68A4BFF5",
+	internalName = "34 Medium Contrast Fade",
+	title = "33. Contrast Fade - Medium",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = -50,
+			ProcessVersion = "6.7",
+		},
+		uuid = "AE93EC0C-1AE3-4E9C-8E14-FED47A5BBF90",
+	},
+	version = 0,
+}

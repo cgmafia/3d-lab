@@ -1,0 +1,14 @@
+s = {
+	id = "73EFC2CE-86F7-4855-8187-2CD7CA7191EA",
+	internalName = "06 Blacks -35",
+	title = "06 Blacks -35",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -35,
+			ProcessVersion = "6.7",
+		},
+		uuid = "1BB5E979-B565-4255-A61E-DE9529B93B69",
+	},
+	version = 0,
+}

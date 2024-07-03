@@ -1,0 +1,15 @@
+s = {
+	id = "DCE07857-17AD-4D98-85D2-978B932E819C",
+	internalName = "04 Vibrance +51",
+	title = "04 Vibrance +51",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ProcessVersion = "6.7",
+			Vibrance = 51,
+		},
+		uuid = "AD1C3A68-B1AE-460B-A80D-6B8E5AD6AF19",
+	},
+	version = 0,
+}

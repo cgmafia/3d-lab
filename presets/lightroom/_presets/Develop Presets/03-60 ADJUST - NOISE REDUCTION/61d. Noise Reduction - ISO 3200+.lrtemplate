@@ -1,0 +1,19 @@
+s = {
+	id = "7B3DA082-8DA8-4F9E-BD29-242931BB492A",
+	internalName = "68 Max Noise Reduction (ISO 3200+)",
+	title = "61d. Noise Reduction - ISO 3200+",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 70,
+			LuminanceSmoothing = 80,
+			ProcessVersion = "6.7",
+		},
+		uuid = "5C817F82-979C-47ED-8775-533F6BDBCEB0",
+	},
+	version = 0,
+}

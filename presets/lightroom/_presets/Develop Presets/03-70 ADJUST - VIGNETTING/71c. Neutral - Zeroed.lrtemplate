@@ -1,0 +1,16 @@
+s = {
+	id = "E82EEEEF-F781-4BDC-A3EF-F017B90DBDC1",
+	internalName = "71a. RESET Pre-Crop Vignette",
+	title = "71c. Neutral - Zeroed",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableLensCorrections = true,
+			ProcessVersion = "6.7",
+			VignetteAmount = 0,
+			VignetteMidpoint = 50,
+		},
+		uuid = "1BB8E814-31AE-42AE-A594-A5D4DE73FFB9",
+	},
+	version = 0,
+}

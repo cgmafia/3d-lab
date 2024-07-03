@@ -1,0 +1,13 @@
+s = {
+	id = "D499FD92-7430-4309-A885-B65467515DFF",
+	internalName = "00 ----- Film Grains ----- 00",
+	title = "71 <------------- LENS VIGNETTING",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+		},
+		uuid = "90E3C44D-28D8-44A2-83B0-4320E526EE6C",
+	},
+	version = 0,
+}

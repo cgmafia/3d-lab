@@ -1,0 +1,15 @@
+s = {
+	id = "BD8EB849-EA63-4D13-87D8-20DA96ECDA21",
+	internalName = "45 Heavy Darken",
+	title = "41. Darken - Heavy (-30, -60)",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -60,
+			ProcessVersion = "6.7",
+			Shadows2012 = -30,
+		},
+		uuid = "84898EBF-271F-43F8-8888-BA070EEB9477",
+	},
+	version = 0,
+}

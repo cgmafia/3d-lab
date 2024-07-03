@@ -1,0 +1,14 @@
+s = {
+	id = "F72408AA-2D1F-4B01-9283-FB0B1D227131",
+	internalName = "02 Whites -91",
+	title = "02 Whites -91",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Whites2012 = -91,
+		},
+		uuid = "098B4460-2961-477F-81F6-99D42FCA63A4",
+	},
+	version = 0,
+}

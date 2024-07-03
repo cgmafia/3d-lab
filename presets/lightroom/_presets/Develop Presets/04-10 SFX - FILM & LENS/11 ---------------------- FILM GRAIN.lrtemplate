@@ -1,0 +1,13 @@
+s = {
+	id = "0FC31CBE-744B-4540-B45A-ED1608BA29C3",
+	internalName = "10 <-------------------- Grain",
+	title = "11 <--------------------- FILM GRAIN",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+		},
+		uuid = "F9B2C5BA-0487-4D18-B40B-6207C1AB6FD9",
+	},
+	version = 0,
+}

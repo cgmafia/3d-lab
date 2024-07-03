@@ -1,0 +1,19 @@
+s = {
+	id = "FD61A8C5-A48D-450A-804A-2FCEE8B37DDA",
+	internalName = "02i. Green/Blue",
+	title = "02i. Green/Blue",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 30,
+			SplitToningHighlightHue = 120,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 240,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "B67DCA48-B80F-4460-A026-B0DB0133C3F2",
+	},
+	version = 0,
+}

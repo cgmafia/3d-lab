@@ -1,0 +1,13 @@
+s = {
+	id = "7B2F39F5-2645-4F5D-A7D7-AB2DBE8814AC",
+	internalName = "01 - CUSTOM MIXOLOGY GOES HERE",
+	title = "01 - CUSTOM MIXOLOGY GOES HERE",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+		},
+		uuid = "CE4D7B08-4950-4EAE-BEE8-85F44E3A4403",
+	},
+	version = 0,
+}

@@ -1,0 +1,1 @@
+Most presets are from www.orbaz.com forum. Copyrights belongs to authors.

@@ -1,0 +1,15 @@
+s = {
+	id = "111C3466-322C-40C9-98A5-F705C3B95EAE",
+	internalName = "Lens Vignette -30",
+	title = "Lens Vignette 07 -30",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableVignettes = true,
+			VignetteAmount = -30,
+			VignetteMidpoint = 50,
+		},
+		uuid = "93C5B7A8-2CE9-4BB6-9B43-946064BE230B",
+	},
+	version = 0,
+}

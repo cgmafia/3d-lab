@@ -1,0 +1,88 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   crs:Version="8.4"
+   crs:ToneCurveName="Custom"
+   crs:ToneCurveName2012="Custom"
+   crs:GrainSeed="1281754084"
+   crs:HasSettings="True">
+   <crs:ToneCurve>
+    <rdf:Seq>
+     <rdf:li>0, 45</rdf:li>
+     <rdf:li>47, 57</rdf:li>
+     <rdf:li>102, 103</rdf:li>
+     <rdf:li>205, 207</rdf:li>
+     <rdf:li>255, 246</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurve>
+   <crs:ToneCurveRed>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>21, 4</rdf:li>
+     <rdf:li>54, 22</rdf:li>
+     <rdf:li>121, 123</rdf:li>
+     <rdf:li>186, 202</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveRed>
+   <crs:ToneCurveGreen>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>53, 21</rdf:li>
+     <rdf:li>122, 126</rdf:li>
+     <rdf:li>181, 204</rdf:li>
+     <rdf:li>220, 232</rdf:li>
+     <rdf:li>255, 251</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveGreen>
+   <crs:ToneCurveBlue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>47, 22</rdf:li>
+     <rdf:li>125, 123</rdf:li>
+     <rdf:li>180, 195</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveBlue>
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 45</rdf:li>
+     <rdf:li>47, 57</rdf:li>
+     <rdf:li>102, 103</rdf:li>
+     <rdf:li>205, 207</rdf:li>
+     <rdf:li>255, 246</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+   <crs:ToneCurvePV2012Red>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>21, 4</rdf:li>
+     <rdf:li>54, 22</rdf:li>
+     <rdf:li>121, 123</rdf:li>
+     <rdf:li>186, 202</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Red>
+   <crs:ToneCurvePV2012Green>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>53, 21</rdf:li>
+     <rdf:li>122, 126</rdf:li>
+     <rdf:li>181, 204</rdf:li>
+     <rdf:li>220, 232</rdf:li>
+     <rdf:li>255, 251</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Green>
+   <crs:ToneCurvePV2012Blue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>47, 22</rdf:li>
+     <rdf:li>125, 123</rdf:li>
+     <rdf:li>180, 195</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Blue>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

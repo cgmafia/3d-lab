@@ -1,0 +1,14 @@
+s = {
+	id = "70034C3A-7D30-454E-A746-48BE39346A2C",
+	internalName = "07_Skin Softener",
+	title = "22. Detail Soften - Light (Portraits)",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = -10,
+			ProcessVersion = "6.7",
+		},
+		uuid = "D876068B-2673-47FE-B1AC-DC9E19BC1C83",
+	},
+	version = 0,
+}

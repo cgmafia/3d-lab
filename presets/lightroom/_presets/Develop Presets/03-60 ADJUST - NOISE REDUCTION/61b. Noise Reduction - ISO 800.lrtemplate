@@ -1,0 +1,19 @@
+s = {
+	id = "09CC49DB-4854-4D8F-8EB9-008C71368A91",
+	internalName = "09_Mid Noise Reduction",
+	title = "61b. Noise Reduction - ISO 800",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 40,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 70,
+			LuminanceSmoothing = 40,
+			ProcessVersion = "6.7",
+		},
+		uuid = "D1881121-52F4-4FAB-8874-89B753503403",
+	},
+	version = 0,
+}

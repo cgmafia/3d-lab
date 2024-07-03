@@ -1,0 +1,16 @@
+s = {
+	id = "FDFEFF99-495F-4F42-A8E7-C9797A77A145",
+	internalName = "Copyrights © 2014 ~ HQLighroomPresets.com",
+	title = "Vintrochrome : Grain RESET ~ HQLightroomPresets",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 0,
+			GrainFrequency = 50,
+			GrainSize = 50,
+		},
+		uuid = "7B959096-869C-446C-9707-B6ACB251B727",
+	},
+	version = 0,
+}

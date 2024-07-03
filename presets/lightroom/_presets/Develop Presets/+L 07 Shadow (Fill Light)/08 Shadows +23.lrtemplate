@@ -1,0 +1,14 @@
+s = {
+	id = "3B69A5E8-4438-4303-8FDC-BCC2B8955CB8",
+	internalName = "08 Shadows +23",
+	title = "08 Shadows +23",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Shadows2012 = 23,
+		},
+		uuid = "8C060D71-AE45-4F1E-B096-BF14B921DD42",
+	},
+	version = 0,
+}

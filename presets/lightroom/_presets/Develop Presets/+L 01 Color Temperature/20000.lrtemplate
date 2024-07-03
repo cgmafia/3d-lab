@@ -1,0 +1,15 @@
+s = {
+	id = "31A8549E-4622-40ED-9FB0-57925F8FE0EC",
+	internalName = "20000",
+	title = "20000",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 20000,
+			Tint = 10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "31A54DBD-1AFA-4313-ACFE-FAC655C78DC7",
+	},
+	version = 0,
+}

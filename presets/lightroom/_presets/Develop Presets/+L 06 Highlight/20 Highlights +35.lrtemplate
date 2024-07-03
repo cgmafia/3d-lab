@@ -1,0 +1,14 @@
+s = {
+	id = "78A088B8-260C-4FD9-8A69-22BB3085ACBB",
+	internalName = "20 Highlights +35",
+	title = "20 Highlights +35",
+	type = "Develop",
+	value = {
+		settings = {
+			Highlights2012 = 35,
+			ProcessVersion = "6.7",
+		},
+		uuid = "59D39885-4A9F-40AD-B95B-8800847733FF",
+	},
+	version = 0,
+}

@@ -1,0 +1,13 @@
+s = {
+	id = "569581CB-0115-4475-9E3C-082AE9D90C71",
+	internalName = "20 <------------------- Neutral Punches",
+	title = "13 <---------- NEUTRAL PUNCHES",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+		},
+		uuid = "3C3EBA84-0C03-45C6-B7BC-0481925855F7",
+	},
+	version = 0,
+}

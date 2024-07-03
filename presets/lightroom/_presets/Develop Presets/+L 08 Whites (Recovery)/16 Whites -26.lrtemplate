@@ -1,0 +1,14 @@
+s = {
+	id = "4BF4CF3F-2AB1-4BAA-A540-0B4F596445C6",
+	internalName = "16 Whites -26",
+	title = "16 Whites -26",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Whites2012 = -26,
+		},
+		uuid = "338438B7-8B4A-4D4A-BE1C-2AACDCC0D25D",
+	},
+	version = 0,
+}

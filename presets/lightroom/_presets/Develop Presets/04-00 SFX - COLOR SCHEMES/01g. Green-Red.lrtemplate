@@ -1,0 +1,19 @@
+s = {
+	id = "4699461F-7ED5-4B5A-AE44-6CF3E8A09810",
+	internalName = "01f. Green/Red",
+	title = "01g. Green/Red",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 120,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 0,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "1F8A4D1B-7B52-4053-BC96-F823298FE4D8",
+	},
+	version = 0,
+}

@@ -1,0 +1,14 @@
+s = {
+	id = "1EFB7A7B-C461-49D8-A927-6577BAA496AD",
+	internalName = "10 Whites -53",
+	title = "10 Whites -53",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Whites2012 = -53,
+		},
+		uuid = "95B05A5C-0833-475F-9806-B7DBEB2412C8",
+	},
+	version = 0,
+}

@@ -1,0 +1,17 @@
+s = {
+	id = "0050F91C-54E7-4226-84FB-C7AE6A5746E3",
+	internalName = "05 Strong Film Grain",
+	title = "11e. Max Film Grain",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 90,
+			GrainFrequency = 30,
+			GrainSize = 30,
+			ProcessVersion = "6.7",
+		},
+		uuid = "4D90FE1A-906D-440F-9C4A-1B44B6C5BC80",
+	},
+	version = 0,
+}

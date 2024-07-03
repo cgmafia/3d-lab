@@ -1,0 +1,13 @@
+s = {
+	id = "A097A87E-F406-4DB2-85F6-0A495C11D41F",
+	internalName = "14 Clarity -4",
+	title = "14 Clarity -4",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = -4,
+		},
+		uuid = "042FD5E3-0366-4A0B-8059-952BAFF21ADA",
+	},
+	version = 0,
+}

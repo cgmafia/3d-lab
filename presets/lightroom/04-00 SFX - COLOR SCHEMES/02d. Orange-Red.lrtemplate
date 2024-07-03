@@ -1,0 +1,19 @@
+s = {
+	id = "B8C938F2-25DF-41BD-A1FF-6964416D9F9F",
+	internalName = "02d. Orange/Red",
+	title = "02d. Orange/Red",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 30,
+			SplitToningHighlightHue = 30,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 0,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "4E7F9747-3BB9-4E1F-9499-89E5E8FD8D05",
+	},
+	version = 0,
+}

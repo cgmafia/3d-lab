@@ -1,0 +1,15 @@
+s = {
+	id = "F574CF1D-FD44-49AB-A0FB-BF5AE6DA894A",
+	internalName = "04500",
+	title = "04500",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 4500,
+			Tint = 10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "DB068DA3-3832-4F4B-85C6-C5057AC9E8EB",
+	},
+	version = 0,
+}

@@ -1,0 +1,15 @@
+s = {
+	id = "53150C0B-0162-4A72-9365-6E66540AF0B7",
+	internalName = "16000",
+	title = "16000",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 16000,
+			Tint = 10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "BF024E5A-EE64-466B-BF0F-26A8CAC8330E",
+	},
+	version = 0,
+}

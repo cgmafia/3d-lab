@@ -1,0 +1,19 @@
+s = {
+	id = "9EAECC5E-86D5-404B-B79D-D75A7CFE508F",
+	internalName = "02c. Orange/Yellow",
+	title = "02c. Orange/Yellow",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 30,
+			SplitToningHighlightHue = 30,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 60,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "E49F26C3-5270-45A8-AF1D-D4AB000AD110",
+	},
+	version = 0,
+}

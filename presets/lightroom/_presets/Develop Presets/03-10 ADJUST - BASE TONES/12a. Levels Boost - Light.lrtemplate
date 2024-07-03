@@ -1,0 +1,17 @@
+s = {
+	id = "F1CB09F4-426E-4CE8-ADCD-DF11FBF6A01B",
+	internalName = "11 Reset Dynamic Range (Standard)",
+	title = "12a. Levels Boost - Light",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -20,
+			Highlights2012 = -20,
+			ProcessVersion = "6.7",
+			Shadows2012 = 10,
+			Whites2012 = 10,
+		},
+		uuid = "B786E5E0-7EBF-4E3A-B13D-5035446C9BB4",
+	},
+	version = 0,
+}

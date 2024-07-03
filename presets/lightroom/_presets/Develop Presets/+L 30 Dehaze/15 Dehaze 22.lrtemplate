@@ -1,0 +1,15 @@
+s = {
+	id = "3DDFF837-BCD9-4413-966E-3FB9452C79A3",
+	internalName = "15 Haze 22",
+	title = "15 Dehaze 22",
+	type = "Develop",
+	value = {
+		settings = {
+			Dehaze = 22,
+			EnableEffects = true,
+			ProcessVersion = "6.7",
+		},
+		uuid = "753E42A2-0C86-4324-B7E9-609AD7E3C9F8",
+	},
+	version = 0,
+}

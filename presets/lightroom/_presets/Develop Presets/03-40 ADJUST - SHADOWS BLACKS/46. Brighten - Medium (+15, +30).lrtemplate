@@ -1,0 +1,15 @@
+s = {
+	id = "42126523-6AA1-4E9C-84C5-E3AE78DE6CAC",
+	internalName = "42 Medium Brighten",
+	title = "46. Brighten - Medium (+15, +30)",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 30,
+			ProcessVersion = "6.7",
+			Shadows2012 = 15,
+		},
+		uuid = "F4F94630-D650-49BA-A552-0B26812D0B25",
+	},
+	version = 0,
+}

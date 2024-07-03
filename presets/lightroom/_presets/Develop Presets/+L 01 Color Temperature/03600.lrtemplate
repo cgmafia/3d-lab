@@ -1,0 +1,15 @@
+s = {
+	id = "771C9050-0829-416B-8089-3E87643DFC8D",
+	internalName = "03600",
+	title = "03600",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 3600,
+			Tint = 10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "13859C2E-0364-4D1A-A7D1-DF168F7DEF12",
+	},
+	version = 0,
+}

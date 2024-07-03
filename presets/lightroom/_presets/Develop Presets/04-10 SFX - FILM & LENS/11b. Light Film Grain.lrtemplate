@@ -1,0 +1,17 @@
+s = {
+	id = "A36FC733-8E7B-4195-A683-FC5F3EEF5B5F",
+	internalName = "01_Light Film Grain",
+	title = "11b. Light Film Grain",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 30,
+			GrainFrequency = 30,
+			GrainSize = 30,
+			ProcessVersion = "6.7",
+		},
+		uuid = "49E97DE4-A8E4-4280-8BD9-E7E9BFDA3ECC",
+	},
+	version = 0,
+}

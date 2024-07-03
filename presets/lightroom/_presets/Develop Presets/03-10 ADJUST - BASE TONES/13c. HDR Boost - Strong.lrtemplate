@@ -1,0 +1,18 @@
+s = {
+	id = "65AE75BD-4F93-4632-82ED-3043543E6377",
+	internalName = "13_Heavy Dynamic Range Boost",
+	title = "13c. HDR Boost - Strong",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 75,
+			Contrast2012 = 75,
+			Highlights2012 = -75,
+			ProcessVersion = "6.7",
+			Shadows2012 = 75,
+			Whites2012 = -75,
+		},
+		uuid = "66861492-0CD1-4F3D-B2DD-4B683471F59A",
+	},
+	version = 0,
+}

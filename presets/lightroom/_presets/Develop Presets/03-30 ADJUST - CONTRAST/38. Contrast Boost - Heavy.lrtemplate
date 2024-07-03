@@ -1,0 +1,14 @@
+s = {
+	id = "5E79E218-AA7B-4593-9FD0-E2784F60283B",
+	internalName = "35 Heavy Boost",
+	title = "38. Contrast Boost - Heavy",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = 75,
+			ProcessVersion = "6.7",
+		},
+		uuid = "3565C7EB-13A0-4A8D-B37C-E325BBD482DB",
+	},
+	version = 0,
+}

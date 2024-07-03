@@ -1,0 +1,14 @@
+s = {
+	id = "7CE595DE-8371-46AF-B71E-E3E00B712691",
+	internalName = "32 Fade",
+	title = "34. Contrast Fade - Light",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = -25,
+			ProcessVersion = "6.7",
+		},
+		uuid = "41059FDA-8D54-40AE-AF43-D8D2F51BFE1F",
+	},
+	version = 0,
+}

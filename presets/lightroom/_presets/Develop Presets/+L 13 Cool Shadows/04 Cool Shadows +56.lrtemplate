@@ -1,0 +1,18 @@
+s = {
+	id = "A0799983-018E-4047-8AB0-1836F677B7F4",
+	internalName = "04 Cool Shadows +56",
+	title = "04 Cool Shadows +56",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			SplitToningBalance = 60,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 0,
+			SplitToningShadowHue = 216,
+			SplitToningShadowSaturation = 56,
+		},
+		uuid = "B0C3E9CF-CCE8-4728-B6E4-729606DE73D0",
+	},
+	version = 0,
+}

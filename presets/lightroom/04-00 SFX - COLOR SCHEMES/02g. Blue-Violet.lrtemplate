@@ -1,0 +1,19 @@
+s = {
+	id = "5961D0AE-F4D3-42B2-9192-1794E67CA23A",
+	internalName = "24 Teal/Violet",
+	title = "02g. Blue/Violet",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 30,
+			SplitToningHighlightHue = 240,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 300,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "96C705BE-36CB-4D2D-A327-3072E5224EB7",
+	},
+	version = 0,
+}

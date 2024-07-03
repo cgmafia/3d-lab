@@ -1,0 +1,13 @@
+s = {
+	id = "2574DE8E-04E1-4824-B4C7-53D8D60C083A",
+	internalName = "04 Contrast -51",
+	title = "22 Contrast -51",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = -51,
+		},
+		uuid = "3C2095F8-AA2D-4D4C-B533-313243735476",
+	},
+	version = 0,
+}

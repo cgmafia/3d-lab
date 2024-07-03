@@ -1,0 +1,15 @@
+s = {
+	id = "80EE640E-7C86-4CE1-BA9D-CF8200436974",
+	internalName = "08 Vibrance +23",
+	title = "08 Vibrance +23",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ProcessVersion = "6.7",
+			Vibrance = 23,
+		},
+		uuid = "0E91ACF4-FBBD-4AE0-B082-DE123D0B886E",
+	},
+	version = 0,
+}

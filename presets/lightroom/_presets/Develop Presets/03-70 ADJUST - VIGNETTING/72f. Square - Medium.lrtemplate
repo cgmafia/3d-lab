@@ -1,0 +1,20 @@
+s = {
+	id = "ADA0C12E-D682-4398-9142-FF488E2297FA",
+	internalName = "09_Medium Square Vignette",
+	title = "72f. Square - Medium",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -30,
+			PostCropVignetteFeather = 80,
+			PostCropVignetteHighlightContrast = 40,
+			PostCropVignetteMidpoint = 20,
+			PostCropVignetteRoundness = -40,
+			PostCropVignetteStyle = 2,
+			ProcessVersion = "6.7",
+		},
+		uuid = "E01517ED-E895-4D86-8309-EF3631FDCF27",
+	},
+	version = 0,
+}

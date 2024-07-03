@@ -1,0 +1,19 @@
+s = {
+	id = "1EEB1D8A-9DD8-4CA0-AD75-B57DAB42F032",
+	internalName = "31 Yellow/Yellow",
+	title = "03a. Yellow/Yellow",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 50,
+			SplitToningHighlightHue = 60,
+			SplitToningHighlightSaturation = 15,
+			SplitToningShadowHue = 60,
+			SplitToningShadowSaturation = 30,
+		},
+		uuid = "9331C345-FE2C-45E5-9A1F-65A983069DFA",
+	},
+	version = 0,
+}

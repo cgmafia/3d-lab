@@ -1,0 +1,14 @@
+s = {
+	id = "6650489C-A70D-4A4E-9458-4773E637EDA0",
+	internalName = "33 Heavy Contrast Fade",
+	title = "32. Contrast Fade - Heavy",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = -75,
+			ProcessVersion = "6.7",
+		},
+		uuid = "9A7C64D4-2C7A-4881-93C5-9694FC3F2173",
+	},
+	version = 0,
+}

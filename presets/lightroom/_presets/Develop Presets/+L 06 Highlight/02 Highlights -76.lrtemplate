@@ -1,0 +1,14 @@
+s = {
+	id = "BCEE0F85-FCEB-404F-9DCA-235F5CC0DDB9",
+	internalName = "02 Highlights -76",
+	title = "02 Highlights -76",
+	type = "Develop",
+	value = {
+		settings = {
+			Highlights2012 = -76,
+			ProcessVersion = "6.7",
+		},
+		uuid = "3BA96AD6-E4CA-425F-B8F2-52AD00CD709E",
+	},
+	version = 0,
+}

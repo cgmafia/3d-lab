@@ -1,0 +1,15 @@
+s = {
+	id = "CA8D9118-F891-4A06-A013-9A2870458C53",
+	internalName = "41 Heavy Brighten",
+	title = "47. Brighten - Heavy (+30, +60)",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 60,
+			ProcessVersion = "6.7",
+			Shadows2012 = 30,
+		},
+		uuid = "87EA7014-FF8A-4E1E-B2A5-D93CB1639631",
+	},
+	version = 0,
+}

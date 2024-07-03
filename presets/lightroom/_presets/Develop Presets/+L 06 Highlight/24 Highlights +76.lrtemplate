@@ -1,0 +1,14 @@
+s = {
+	id = "FFD001F4-FE3C-410F-AB6E-54D8EF9B7AC7",
+	internalName = "24 Highlights +76",
+	title = "24 Highlights +76",
+	type = "Develop",
+	value = {
+		settings = {
+			Highlights2012 = 76,
+			ProcessVersion = "6.7",
+		},
+		uuid = "021AEA19-C5A8-4E59-8214-E5D9217F7CA1",
+	},
+	version = 0,
+}

@@ -1,0 +1,17 @@
+s = {
+	id = "7FFCC9D0-FC97-499D-A4FC-6422B79CB7F4",
+	internalName = "11a Portrait Flatten - Light",
+	title = "11a. Portrait Flatten - Light",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -10,
+			Highlights2012 = -30,
+			ProcessVersion = "6.7",
+			Shadows2012 = 20,
+			Whites2012 = -20,
+		},
+		uuid = "10C972F6-D553-4AA2-B4B1-4004732D975E",
+	},
+	version = 0,
+}

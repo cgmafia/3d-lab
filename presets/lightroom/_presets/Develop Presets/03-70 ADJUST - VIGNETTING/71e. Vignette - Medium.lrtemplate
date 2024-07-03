@@ -1,0 +1,16 @@
+s = {
+	id = "1FC207A8-B104-42FF-BC97-0F08CAE9E7C0",
+	internalName = "05_Medium Vignette",
+	title = "71e. Vignette - Medium",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableLensCorrections = true,
+			ProcessVersion = "6.7",
+			VignetteAmount = -60,
+			VignetteMidpoint = 25,
+		},
+		uuid = "A790CACC-96A7-4613-A965-25AE40DF5129",
+	},
+	version = 0,
+}

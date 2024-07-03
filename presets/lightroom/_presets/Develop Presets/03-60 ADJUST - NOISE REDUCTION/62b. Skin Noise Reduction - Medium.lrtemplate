@@ -1,0 +1,19 @@
+s = {
+	id = "F5170202-A03C-4778-93F6-55D06A6596D2",
+	internalName = "63 Medium Noise Reduction for Skin",
+	title = "62b. Skin Noise Reduction - Medium",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 70,
+			LuminanceSmoothing = 30,
+			ProcessVersion = "6.7",
+		},
+		uuid = "918E82DF-A3E4-487F-A64F-922D62DD6D75",
+	},
+	version = 0,
+}

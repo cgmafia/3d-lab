@@ -1,0 +1,14 @@
+s = {
+	id = "C336D852-912F-4273-A0F0-23FBFAC23359",
+	internalName = "10 Blacks -13",
+	title = "10 Blacks -13",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -13,
+			ProcessVersion = "6.7",
+		},
+		uuid = "2D4D9A39-AFC8-4A5E-A9B5-BF2AA00504F4",
+	},
+	version = 0,
+}

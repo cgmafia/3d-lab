@@ -1,0 +1,15 @@
+s = {
+	id = "1C75B977-1E71-4A71-9E17-F7A64D74D15E",
+	internalName = "07500",
+	title = "07500 (Shade)",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 7500,
+			Tint = 10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "3356A55B-6124-424B-9459-234AA2F2B4BE",
+	},
+	version = 0,
+}

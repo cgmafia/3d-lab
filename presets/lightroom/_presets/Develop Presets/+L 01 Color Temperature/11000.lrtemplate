@@ -1,0 +1,15 @@
+s = {
+	id = "0B6412DC-19D4-48E5-A120-F315C06A6D85",
+	internalName = "11000",
+	title = "11000",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 11000,
+			Tint = 10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "43DA62D2-1744-44BD-8482-E9AD06FC1CEA",
+	},
+	version = 0,
+}

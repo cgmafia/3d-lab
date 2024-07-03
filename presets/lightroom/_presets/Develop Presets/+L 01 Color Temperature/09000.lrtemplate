@@ -1,0 +1,15 @@
+s = {
+	id = "CA5EF403-8FB2-4FCE-B5CB-F8372FB22A1F",
+	internalName = "09000",
+	title = "09000",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 9000,
+			Tint = 10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "6A52DD22-4F75-4B60-AEDD-48AF421902E8",
+	},
+	version = 0,
+}

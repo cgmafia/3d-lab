@@ -1,0 +1,18 @@
+s = {
+	id = "59849253-C8BF-4342-9E25-DB2791CAD8FB",
+	internalName = "12 Cool Shadows +22",
+	title = "12 Cool Shadows +22",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			SplitToningBalance = 60,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 0,
+			SplitToningShadowHue = 216,
+			SplitToningShadowSaturation = 22,
+		},
+		uuid = "848A3A1A-C486-45C2-B24C-A0AF26A4C567",
+	},
+	version = 0,
+}

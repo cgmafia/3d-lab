@@ -1,0 +1,19 @@
+s = {
+	id = "3A03AD19-EA5F-41E0-93A2-D7AF89D54E14",
+	internalName = "00 Reset Color Toning (Standard)",
+	title = "00.  RESET COLOR",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 0,
+			SplitToningShadowHue = 0,
+			SplitToningShadowSaturation = 0,
+		},
+		uuid = "B2C36CA5-4B0B-4C51-98D8-C22D909B3243",
+	},
+	version = 0,
+}

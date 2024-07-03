@@ -1,0 +1,23 @@
+s = {
+	id = "19FA994F-5F14-4F6B-8723-A1A4FC85317B",
+	internalName = "55c. B&W Warm Boost - Heavy",
+	title = "54c. B&W Warm Boost - Heavy",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			GrayMixerAqua = 0,
+			GrayMixerBlue = 0,
+			GrayMixerGreen = 0,
+			GrayMixerMagenta = 0,
+			GrayMixerOrange = 30,
+			GrayMixerPurple = 0,
+			GrayMixerRed = 15,
+			GrayMixerYellow = 30,
+			ProcessVersion = "6.7",
+		},
+		uuid = "F1A1295C-5EE8-4141-AB1C-576FBE478F80",
+	},
+	version = 0,
+}

@@ -1,0 +1,19 @@
+s = {
+	id = "F557A2BE-B72A-46E7-A3C9-36867D037CD8",
+	internalName = "10_Strong Noise Reduction",
+	title = "61c. Noise Reduction - ISO 1600",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 50,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 70,
+			LuminanceSmoothing = 60,
+			ProcessVersion = "6.7",
+		},
+		uuid = "72EE60A7-BD07-488A-887B-EB239E79B38E",
+	},
+	version = 0,
+}

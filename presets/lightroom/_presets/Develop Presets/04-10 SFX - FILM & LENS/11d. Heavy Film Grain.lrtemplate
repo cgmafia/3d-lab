@@ -1,0 +1,17 @@
+s = {
+	id = "73C3240A-9B90-4DC2-80BB-065CC1DB4105",
+	internalName = "03_Heavy Film Grain",
+	title = "11d. Heavy Film Grain",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 70,
+			GrainFrequency = 30,
+			GrainSize = 30,
+			ProcessVersion = "6.7",
+		},
+		uuid = "6D76ACCD-638B-41BD-802B-BA8C844CA56C",
+	},
+	version = 0,
+}

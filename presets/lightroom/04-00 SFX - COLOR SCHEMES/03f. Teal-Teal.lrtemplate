@@ -1,0 +1,19 @@
+s = {
+	id = "020D1834-FF7D-41F2-B253-F644718CDE67",
+	internalName = "03f. Teal/Teal",
+	title = "03f. Teal/Teal",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 50,
+			SplitToningHighlightHue = 180,
+			SplitToningHighlightSaturation = 15,
+			SplitToningShadowHue = 180,
+			SplitToningShadowSaturation = 30,
+		},
+		uuid = "3104C77C-ADA2-48D4-8810-566919710FAA",
+	},
+	version = 0,
+}

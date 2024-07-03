@@ -1,0 +1,15 @@
+s = {
+	id = "D86C7BAC-99AB-4C30-9F93-5E6F3F44D2BC",
+	internalName = "02400",
+	title = "02400",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 2400,
+			Tint = 10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "00772CCF-A2CE-4D0A-AFF0-4F81E5FB3300",
+	},
+	version = 0,
+}

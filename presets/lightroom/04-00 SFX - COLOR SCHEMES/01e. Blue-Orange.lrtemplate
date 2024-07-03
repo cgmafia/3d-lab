@@ -1,0 +1,19 @@
+s = {
+	id = "2D80CE09-8C23-43C9-80CC-2E5D0CEB06A0",
+	internalName = "01e. Blue/Orange",
+	title = "01e. Blue/Orange",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 240,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 30,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "409AEE81-AFE9-4F71-98F3-D29FDA1E73F6",
+	},
+	version = 0,
+}

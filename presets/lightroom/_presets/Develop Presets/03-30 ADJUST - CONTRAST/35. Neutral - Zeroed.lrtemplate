@@ -1,0 +1,14 @@
+s = {
+	id = "5BAC9775-6AA0-4BEE-B76F-1FA8A6EE75BE",
+	internalName = "31 Reset (Standard)",
+	title = "35. Neutral - Zeroed",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = 0,
+			ProcessVersion = "6.7",
+		},
+		uuid = "6FB29483-A23A-4509-9E80-F82AA601E2DF",
+	},
+	version = 0,
+}

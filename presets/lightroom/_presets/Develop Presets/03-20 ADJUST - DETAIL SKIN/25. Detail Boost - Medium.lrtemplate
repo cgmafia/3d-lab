@@ -1,0 +1,14 @@
+s = {
+	id = "9A1AB35B-F630-4FFF-ABD9-055FDC014F07",
+	internalName = "06_Detail Pop",
+	title = "25. Detail Boost - Medium",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 30,
+			ProcessVersion = "6.7",
+		},
+		uuid = "1AA59268-EAAF-4CD9-A7CA-48A05408F3C5",
+	},
+	version = 0,
+}

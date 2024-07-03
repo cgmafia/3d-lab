@@ -1,0 +1,14 @@
+s = {
+	id = "921D6539-59D2-4F89-9C68-158D9AD4C6D4",
+	internalName = "08 Lighten                 +2.5 Stops",
+	title = "09. Brighten               +2.0",
+	type = "Develop",
+	value = {
+		settings = {
+			Exposure2012 = 2,
+			ProcessVersion = "6.7",
+		},
+		uuid = "0D6F6A02-FF00-42AB-91BD-C59A247790E5",
+	},
+	version = 0,
+}

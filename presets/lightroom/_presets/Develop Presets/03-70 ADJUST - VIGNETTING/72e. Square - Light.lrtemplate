@@ -1,0 +1,20 @@
+s = {
+	id = "4613F1FB-1EEC-4AC3-9F89-DEB2D173F23C",
+	internalName = "08_Light Square Vignette",
+	title = "72e. Square - Light",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -15,
+			PostCropVignetteFeather = 80,
+			PostCropVignetteHighlightContrast = 40,
+			PostCropVignetteMidpoint = 30,
+			PostCropVignetteRoundness = -40,
+			PostCropVignetteStyle = 2,
+			ProcessVersion = "6.7",
+		},
+		uuid = "861CA4EF-38F0-4AA4-83C7-1F3D2441B890",
+	},
+	version = 0,
+}

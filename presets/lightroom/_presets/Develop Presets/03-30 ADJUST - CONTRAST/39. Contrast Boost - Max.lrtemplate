@@ -1,0 +1,14 @@
+s = {
+	id = "DF9F215C-78C2-4857-9F66-16931FB00E4C",
+	internalName = "36 Max",
+	title = "39. Contrast Boost - Max",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = 100,
+			ProcessVersion = "6.7",
+		},
+		uuid = "39B5FEAC-0BCA-48F6-836F-5F3FA96DAFF1",
+	},
+	version = 0,
+}

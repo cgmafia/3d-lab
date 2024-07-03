@@ -1,0 +1,17 @@
+s = {
+	id = "8240BB67-4602-4FAB-A925-6DFC6551B056",
+	internalName = "12b. Levels Boost - Medium",
+	title = "12b. Levels Boost - Medium",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -40,
+			Highlights2012 = -20,
+			ProcessVersion = "6.7",
+			Shadows2012 = 10,
+			Whites2012 = 30,
+		},
+		uuid = "199F44DC-F027-481E-9461-5068E1F05958",
+	},
+	version = 0,
+}

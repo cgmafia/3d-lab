@@ -1,0 +1,14 @@
+s = {
+	id = "78A81C2F-B011-4759-8381-88262AA48B3A",
+	internalName = "24 Zeroed Detail",
+	title = "23. Neutral - Zeroed",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 0,
+			ProcessVersion = "6.7",
+		},
+		uuid = "B482B8DD-C7EB-4650-A5B8-D1DBB180F503",
+	},
+	version = 0,
+}

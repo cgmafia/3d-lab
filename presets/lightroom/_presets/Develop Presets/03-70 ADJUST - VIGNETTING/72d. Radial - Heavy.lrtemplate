@@ -1,0 +1,20 @@
+s = {
+	id = "36934C64-8AAF-42F4-AA11-0288831AFADD",
+	internalName = "04 Heavy Radial",
+	title = "72d. Radial - Heavy",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -45,
+			PostCropVignetteFeather = 80,
+			PostCropVignetteHighlightContrast = 40,
+			PostCropVignetteMidpoint = 30,
+			PostCropVignetteRoundness = 50,
+			PostCropVignetteStyle = 2,
+			ProcessVersion = "6.7",
+		},
+		uuid = "4EF358C5-D8AB-4158-9973-F36BE13C493C",
+	},
+	version = 0,
+}

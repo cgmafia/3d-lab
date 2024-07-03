@@ -1,0 +1,17 @@
+s = {
+	id = "72BF1A82-1F0C-4FF2-8B28-C9EB456070CB",
+	internalName = "02_Medium Film Grain",
+	title = "11c. Medium Film Grain",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 50,
+			GrainFrequency = 30,
+			GrainSize = 30,
+			ProcessVersion = "6.7",
+		},
+		uuid = "3A1DD550-072D-481F-BFF8-F92108B260A0",
+	},
+	version = 0,
+}

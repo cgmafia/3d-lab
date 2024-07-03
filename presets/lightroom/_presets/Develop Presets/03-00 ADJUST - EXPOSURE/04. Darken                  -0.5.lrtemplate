@@ -1,0 +1,14 @@
+s = {
+	id = "80A4139F-EFD6-4E23-B8FA-5EDF12245A73",
+	internalName = "Standard Import",
+	title = "04. Darken                  -0.5",
+	type = "Develop",
+	value = {
+		settings = {
+			Exposure2012 = -0.5,
+			ProcessVersion = "6.7",
+		},
+		uuid = "189FA572-9978-48ED-9ACD-05C93189A6C7",
+	},
+	version = 0,
+}

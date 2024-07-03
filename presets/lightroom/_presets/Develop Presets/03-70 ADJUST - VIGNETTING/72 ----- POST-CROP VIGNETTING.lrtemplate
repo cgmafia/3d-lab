@@ -1,0 +1,13 @@
+s = {
+	id = "670E7BE5-7A86-44FB-B196-A7C74E9C8BBB",
+	internalName = "72 <-------------------- POST-CROP",
+	title = "72 <---- POST-CROP VIGNETTING",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+		},
+		uuid = "A036F9C2-D1DA-4F4E-8A33-0FEA11EF98E1",
+	},
+	version = 0,
+}

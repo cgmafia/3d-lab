@@ -1,0 +1,19 @@
+s = {
+	id = "277A48A7-70F2-4341-A03D-9D14AB915249",
+	internalName = "22 Green/Blue",
+	title = "02h. Blue/Green",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 30,
+			SplitToningHighlightHue = 240,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 120,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "4AE4E518-D119-423C-9298-E9C55D305D7A",
+	},
+	version = 0,
+}

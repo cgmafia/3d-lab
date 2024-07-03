@@ -1,0 +1,14 @@
+s = {
+	id = "77C94E32-D4BE-4FB8-8F45-4B13E22EF55B",
+	internalName = "16 Highlights +13",
+	title = "16 Highlights +13",
+	type = "Develop",
+	value = {
+		settings = {
+			Highlights2012 = 13,
+			ProcessVersion = "6.7",
+		},
+		uuid = "63EE70F5-C38C-4119-8E36-4A115C1975EA",
+	},
+	version = 0,
+}

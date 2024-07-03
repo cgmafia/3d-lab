@@ -1,0 +1,23 @@
+s = {
+	id = "FA9F25B4-CEE4-4A15-B4ED-0F3BA02AF994",
+	internalName = "13a. B&W Warm Boost - Light",
+	title = "54a. B&W Warm Boost - Light",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			GrayMixerAqua = 0,
+			GrayMixerBlue = 0,
+			GrayMixerGreen = 0,
+			GrayMixerMagenta = 0,
+			GrayMixerOrange = 10,
+			GrayMixerPurple = 0,
+			GrayMixerRed = 5,
+			GrayMixerYellow = 10,
+			ProcessVersion = "6.7",
+		},
+		uuid = "2D98D6A0-BDBB-4348-9A58-7FCBB24B2F58",
+	},
+	version = 0,
+}

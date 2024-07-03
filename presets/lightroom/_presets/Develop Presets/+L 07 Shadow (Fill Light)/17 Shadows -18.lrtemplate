@@ -1,0 +1,14 @@
+s = {
+	id = "D8ACC1DD-5E14-40CD-B813-C2266C87113E",
+	internalName = "17 Shadows -18",
+	title = "17 Shadows -18",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Shadows2012 = -18,
+		},
+		uuid = "176FC21E-DEDF-4CB7-9B31-0884DBBFFB30",
+	},
+	version = 0,
+}

@@ -1,0 +1,15 @@
+s = {
+	id = "5300F0EB-7BFA-410A-8FCA-D52E286FC539",
+	internalName = "12 Saturation +4",
+	title = "12 Saturation +4",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ProcessVersion = "6.7",
+			Saturation = 4,
+		},
+		uuid = "5B9B65B4-5F72-4AF8-82C1-50162ABFE6DC",
+	},
+	version = 0,
+}

@@ -1,0 +1,15 @@
+s = {
+	id = "B26C7149-1C10-4A58-8F39-9A381B20D600",
+	internalName = "00 Reset All Effects (Standard)",
+	title = "00. RESET ALL FX (Standard)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableGradientBasedCorrections = true,
+			ProcessVersion = "6.7",
+			orientation = "AB",
+		},
+		uuid = "975F24DF-59CB-42B3-8C79-52A664940F44",
+	},
+	version = 0,
+}

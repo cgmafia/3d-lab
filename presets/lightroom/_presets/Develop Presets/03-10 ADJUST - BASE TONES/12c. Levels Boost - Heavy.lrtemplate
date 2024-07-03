@@ -1,0 +1,17 @@
+s = {
+	id = "B59777F7-C1AF-4762-A95F-B841EDA59237",
+	internalName = "12c. Levels Boost - Heavy",
+	title = "12c. Levels Boost - Heavy",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -60,
+			Highlights2012 = -20,
+			ProcessVersion = "6.7",
+			Shadows2012 = 10,
+			Whites2012 = 50,
+		},
+		uuid = "BE06B068-4C6D-4B4A-AF9A-FABC8000F470",
+	},
+	version = 0,
+}

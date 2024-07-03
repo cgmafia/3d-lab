@@ -1,0 +1,14 @@
+s = {
+	id = "FDBECBD3-E2BE-48B4-B696-746344296832",
+	internalName = "10 Highlights -13",
+	title = "10 Highlights -13",
+	type = "Develop",
+	value = {
+		settings = {
+			Highlights2012 = -13,
+			ProcessVersion = "6.7",
+		},
+		uuid = "834853E9-5E5D-4955-9B54-DCA2C4E56FB5",
+	},
+	version = 0,
+}

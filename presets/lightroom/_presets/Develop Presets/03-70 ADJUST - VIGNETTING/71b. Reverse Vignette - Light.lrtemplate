@@ -1,0 +1,23 @@
+s = {
+	id = "CF72CC28-8E6F-4393-90B2-D144FA1D44D5",
+	internalName = "11_Reset Square Vignette",
+	title = "71b. Reverse Vignette - Light",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			EnableLensCorrections = true,
+			PostCropVignetteAmount = 0,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 50,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+			VignetteAmount = 30,
+			VignetteMidpoint = 30,
+		},
+		uuid = "4A866761-7C4E-4894-BCFF-3AD8E18C3BF5",
+	},
+	version = 0,
+}

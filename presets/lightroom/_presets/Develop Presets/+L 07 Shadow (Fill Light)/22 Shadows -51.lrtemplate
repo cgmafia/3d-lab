@@ -1,0 +1,14 @@
+s = {
+	id = "FC5F9540-7958-4B70-BA89-C44AE3469716",
+	internalName = "22 Shadows -51",
+	title = "22 Shadows -51",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Shadows2012 = -51,
+		},
+		uuid = "5B22214A-90F1-4042-9A62-7EA18E3185AF",
+	},
+	version = 0,
+}

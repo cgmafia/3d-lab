@@ -1,0 +1,14 @@
+s = {
+	id = "C84AECCF-45E6-4ADC-9160-0748B61DD465",
+	internalName = "03 Highlights -62",
+	title = "03 Highlights -62",
+	type = "Develop",
+	value = {
+		settings = {
+			Highlights2012 = -62,
+			ProcessVersion = "6.7",
+		},
+		uuid = "3F0E97F2-394B-42F6-AE8D-B83F8B8624A5",
+	},
+	version = 0,
+}

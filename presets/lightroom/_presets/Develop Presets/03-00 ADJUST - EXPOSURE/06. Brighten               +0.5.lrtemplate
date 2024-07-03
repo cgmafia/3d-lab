@@ -1,0 +1,14 @@
+s = {
+	id = "F71940E6-E26D-4ED3-AF87-910954372EA1",
+	internalName = "02_+1 Stop Exposure + Standard",
+	title = "06. Brighten               +0.5",
+	type = "Develop",
+	value = {
+		settings = {
+			Exposure2012 = 0.5,
+			ProcessVersion = "6.7",
+		},
+		uuid = "F27BE078-B96D-42A8-972B-8F5BA1A2F2DA",
+	},
+	version = 0,
+}

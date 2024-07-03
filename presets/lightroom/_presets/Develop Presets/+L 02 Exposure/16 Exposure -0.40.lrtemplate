@@ -1,0 +1,13 @@
+s = {
+	id = "57E4BF18-98A9-4A7F-A7B3-8BCDDA8C2400",
+	internalName = "16 Exposure -0.40",
+	title = "16 Exposure -0.40",
+	type = "Develop",
+	value = {
+		settings = {
+			Exposure2012 = -0.4,
+		},
+		uuid = "9059A18D-EA65-482B-A003-F76633105A85",
+	},
+	version = 0,
+}

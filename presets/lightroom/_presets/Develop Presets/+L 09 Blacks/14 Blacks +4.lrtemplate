@@ -1,0 +1,14 @@
+s = {
+	id = "DDD74026-4510-4EF8-ABE8-49034B952639",
+	internalName = "14 Blacks +4",
+	title = "14 Blacks +4",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 4,
+			ProcessVersion = "6.7",
+		},
+		uuid = "79D67C93-8681-4D42-829D-B0A75047039A",
+	},
+	version = 0,
+}

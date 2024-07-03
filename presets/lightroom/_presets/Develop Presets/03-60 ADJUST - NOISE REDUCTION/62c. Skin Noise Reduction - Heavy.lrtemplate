@@ -1,0 +1,19 @@
+s = {
+	id = "B0CDAEDC-8C02-4E34-8808-BD86C4F103B6",
+	internalName = "64 Heavy Noise Reduction for Skin",
+	title = "62c. Skin Noise Reduction - Heavy",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 70,
+			LuminanceSmoothing = 40,
+			ProcessVersion = "6.7",
+		},
+		uuid = "DF380871-55BF-4863-9A15-AA07EB5D2DE5",
+	},
+	version = 0,
+}

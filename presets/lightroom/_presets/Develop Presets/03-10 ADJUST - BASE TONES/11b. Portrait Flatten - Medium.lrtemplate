@@ -1,0 +1,17 @@
+s = {
+	id = "8EC73C50-EC14-40DF-B16C-6024911DC9F2",
+	internalName = "12 Highlight Flatten (Portraits)",
+	title = "11b. Portrait Flatten - Medium",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 0,
+			Highlights2012 = -40,
+			ProcessVersion = "6.7",
+			Shadows2012 = 0,
+			Whites2012 = -30,
+		},
+		uuid = "C6AB5BF2-B6EE-46AA-93A4-7DFE0CFD04A2",
+	},
+	version = 0,
+}

@@ -1,0 +1,14 @@
+s = {
+	id = "9D961AB9-EB89-4DD4-992D-4263520CA065",
+	internalName = "06 Whites -68",
+	title = "06 Whites -68",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Whites2012 = -68,
+		},
+		uuid = "31109CA1-8E0B-4F34-AFE0-4DB2810A3F47",
+	},
+	version = 0,
+}

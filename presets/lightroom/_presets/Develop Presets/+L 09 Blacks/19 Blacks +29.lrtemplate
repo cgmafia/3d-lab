@@ -1,0 +1,14 @@
+s = {
+	id = "6AF86AC2-8C37-4F97-A3FB-20197D3EB01F",
+	internalName = "19 Blacks +29",
+	title = "19 Blacks +29",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 29,
+			ProcessVersion = "6.7",
+		},
+		uuid = "EAB7D34D-B167-4955-891F-88F3D216331A",
+	},
+	version = 0,
+}

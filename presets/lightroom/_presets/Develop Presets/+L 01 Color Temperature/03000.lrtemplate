@@ -1,0 +1,15 @@
+s = {
+	id = "C32A8920-3826-4EDD-ACEB-076DB5892496",
+	internalName = "03000",
+	title = "03000",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 3000,
+			Tint = 10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "46E7F9ED-0BBC-412A-BFAA-EBCCD1F7A3E5",
+	},
+	version = 0,
+}

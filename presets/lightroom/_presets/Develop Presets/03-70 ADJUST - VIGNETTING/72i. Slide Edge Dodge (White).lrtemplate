@@ -1,0 +1,20 @@
+s = {
+	id = "55AB4BE4-DBFF-4D51-AA59-9E47F951A792",
+	internalName = "19 Slide Edge Dodge (White)",
+	title = "72i. Slide Edge Dodge (White)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = 80,
+			PostCropVignetteFeather = 15,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 10,
+			PostCropVignetteRoundness = -95,
+			PostCropVignetteStyle = 2,
+			ProcessVersion = "6.7",
+		},
+		uuid = "00871686-9F6F-4FAF-9C18-6EE2F1B04697",
+	},
+	version = 0,
+}

@@ -1,0 +1,15 @@
+s = {
+	id = "C17D431E-2A39-4288-AC8E-FCEF6006008C",
+	internalName = "18 Haze 58",
+	title = "18 Dehaze 58",
+	type = "Develop",
+	value = {
+		settings = {
+			Dehaze = 58,
+			EnableEffects = true,
+			ProcessVersion = "6.7",
+		},
+		uuid = "4FAEB1B5-C5C9-4017-B445-0C549C213865",
+	},
+	version = 0,
+}

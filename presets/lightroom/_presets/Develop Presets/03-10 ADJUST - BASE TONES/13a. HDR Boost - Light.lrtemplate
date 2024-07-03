@@ -1,0 +1,18 @@
+s = {
+	id = "2F47DC89-4E0D-499B-8E5C-379ABE0A0CAF",
+	internalName = "11_Light Dynamic Range Boost",
+	title = "13a. HDR Boost - Light",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 25,
+			Contrast2012 = 25,
+			Highlights2012 = -25,
+			ProcessVersion = "6.7",
+			Shadows2012 = 25,
+			Whites2012 = -25,
+		},
+		uuid = "41A6E6E8-649D-4DC3-8837-1D4A8C71516A",
+	},
+	version = 0,
+}

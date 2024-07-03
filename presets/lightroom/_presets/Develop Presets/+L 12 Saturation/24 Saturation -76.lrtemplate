@@ -1,0 +1,15 @@
+s = {
+	id = "DE9044E6-24C7-4312-9C35-F005B596E476",
+	internalName = "24 Saturation -76",
+	title = "24 Saturation -76",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ProcessVersion = "6.7",
+			Saturation = -76,
+		},
+		uuid = "AA75C44A-75BA-4089-A573-9B5D44CA5C3C",
+	},
+	version = 0,
+}

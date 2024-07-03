@@ -1,0 +1,14 @@
+s = {
+	id = "5EE6A4E5-638A-43D6-B58E-8A61D56F1336",
+	internalName = "05_ -1 Stop Exposure + Standard",
+	title = "02. Darken                  -1.5",
+	type = "Develop",
+	value = {
+		settings = {
+			Exposure2012 = -1.5,
+			ProcessVersion = "6.7",
+		},
+		uuid = "45050ACA-91B5-4DD7-8C96-5DE626F7D360",
+	},
+	version = 0,
+}

@@ -1,0 +1,16 @@
+s = {
+	id = "7B2CEAC4-90E7-4829-9E68-0D2D2D0546F1",
+	internalName = "12 Light Reverse Vignette",
+	title = "71a. Reverse Vignette - Medium",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableLensCorrections = true,
+			ProcessVersion = "6.7",
+			VignetteAmount = 50,
+			VignetteMidpoint = 20,
+		},
+		uuid = "01E93457-53C4-4DAE-8217-8B492D2A7D24",
+	},
+	version = 0,
+}

@@ -1,0 +1,15 @@
+s = {
+	id = "F91480D9-6109-4E02-B69B-172ABE32A507",
+	internalName = "20 Vibrance -35",
+	title = "20 Vibrance -35",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ProcessVersion = "6.7",
+			Vibrance = -35,
+		},
+		uuid = "A7C8F0D0-8AC0-4796-8313-952D4AD537AC",
+	},
+	version = 0,
+}

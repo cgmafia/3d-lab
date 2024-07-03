@@ -1,0 +1,18 @@
+s = {
+	id = "A099F97D-710C-43B9-BE67-4848CD5A52A1",
+	internalName = "08 Cool Shadows +34",
+	title = "08 Cool Shadows +34",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			SplitToningBalance = 60,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 0,
+			SplitToningShadowHue = 216,
+			SplitToningShadowSaturation = 34,
+		},
+		uuid = "EFB8D738-C00B-4D48-9FF6-02839F3B3F04",
+	},
+	version = 0,
+}

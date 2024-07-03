@@ -1,0 +1,20 @@
+s = {
+	id = "0E212BB6-E6B3-4A6B-841F-343DAC002E3A",
+	internalName = "72a. RESET Post-Crop Vignette",
+	title = "72a. Neutral - Zeroed",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = 0,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 50,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "60A971AD-A9FF-4D51-B62D-5BCA6A7D7732",
+	},
+	version = 0,
+}

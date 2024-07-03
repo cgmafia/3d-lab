@@ -1,0 +1,14 @@
+s = {
+	id = "47D0CEAD-93DE-4406-B4D2-E904E8DF83F1",
+	internalName = "20 Shadows -35",
+	title = "20 Shadows -35",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Shadows2012 = -35,
+		},
+		uuid = "8B4394A0-5BA7-4154-B890-76E29EEA8EAB",
+	},
+	version = 0,
+}

@@ -1,0 +1,14 @@
+s = {
+	id = "AE114A0D-EB24-4504-A774-0D33960FF0B3",
+	internalName = "18 Shadows -23",
+	title = "18 Shadows -23",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Shadows2012 = -23,
+		},
+		uuid = "59CBF2C9-1943-4F1A-91E6-F101293C663F",
+	},
+	version = 0,
+}

@@ -1,0 +1,15 @@
+s = {
+	id = "418D06D1-5374-40FF-A6D0-8ED8443B82F1",
+	internalName = "40b Reset Shadows (Zeroed)",
+	title = "44. Neutral - Zeroed (0, 0)",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 0,
+			ProcessVersion = "6.7",
+			Shadows2012 = 0,
+		},
+		uuid = "DAEC26FE-7F3D-4B99-A7CD-C187A126A747",
+	},
+	version = 0,
+}

@@ -1,0 +1,20 @@
+s = {
+	id = "E148A277-B0DB-49FB-823A-3A7871AA3F39",
+	internalName = "02 Light Radial",
+	title = "72b. Radial - Light",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -15,
+			PostCropVignetteFeather = 80,
+			PostCropVignetteHighlightContrast = 40,
+			PostCropVignetteMidpoint = 50,
+			PostCropVignetteRoundness = 50,
+			PostCropVignetteStyle = 2,
+			ProcessVersion = "6.7",
+		},
+		uuid = "9F66AC06-898D-4D5A-947A-CC2C62D1FC4F",
+	},
+	version = 0,
+}

@@ -1,0 +1,19 @@
+s = {
+	id = "9D21608B-ECEC-470B-A057-13919FFBAFFE",
+	internalName = "04 Post-Crop Vignette -83",
+	title = "04 Post-Crop Vignette -83",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -83,
+			PostCropVignetteFeather = 70,
+			PostCropVignetteHighlightContrast = 30,
+			PostCropVignetteMidpoint = 90,
+			PostCropVignetteRoundness = 100,
+			PostCropVignetteStyle = 1,
+		},
+		uuid = "0B266CC9-8034-41A3-AD2C-4980C61311F2",
+	},
+	version = 0,
+}

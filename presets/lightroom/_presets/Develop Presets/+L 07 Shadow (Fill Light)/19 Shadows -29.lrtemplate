@@ -1,0 +1,14 @@
+s = {
+	id = "D2E85F9E-A558-4F00-8FE5-AA49A764BA3A",
+	internalName = "19 Shadows -29",
+	title = "19 Shadows -29",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Shadows2012 = -29,
+		},
+		uuid = "E3885068-B57A-4994-87B2-46090A4B7B40",
+	},
+	version = 0,
+}

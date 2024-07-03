@@ -1,0 +1,19 @@
+s = {
+	id = "78D09F28-2859-463D-A486-F5E0B46692F8",
+	internalName = "11 Teal/Orange",
+	title = "01c. Orange/Teal",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 30,
+			SplitToningHighlightHue = 30,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 180,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "F08E53AE-2BF4-4E3A-8654-5CECB378BAC0",
+	},
+	version = 0,
+}

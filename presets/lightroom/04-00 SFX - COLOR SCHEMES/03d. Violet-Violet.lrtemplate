@@ -1,0 +1,19 @@
+s = {
+	id = "9E5EF32F-B5FB-4484-A504-A8E064D06091",
+	internalName = "37 Teal/Teal",
+	title = "03d. Violet/Violet",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 50,
+			SplitToningHighlightHue = 300,
+			SplitToningHighlightSaturation = 15,
+			SplitToningShadowHue = 300,
+			SplitToningShadowSaturation = 30,
+		},
+		uuid = "A876E544-346E-433C-99F4-E92949DE05C2",
+	},
+	version = 0,
+}

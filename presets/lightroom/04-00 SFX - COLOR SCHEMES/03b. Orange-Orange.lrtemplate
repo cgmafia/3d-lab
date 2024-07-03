@@ -1,0 +1,19 @@
+s = {
+	id = "5C4DDEFA-39EC-4E3B-B871-32D4D25E7100",
+	internalName = "36 Orange/Orange",
+	title = "03b. Orange/Orange",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 50,
+			SplitToningHighlightHue = 30,
+			SplitToningHighlightSaturation = 15,
+			SplitToningShadowHue = 30,
+			SplitToningShadowSaturation = 30,
+		},
+		uuid = "7B099A50-F7DF-4A17-8380-C826C1A43926",
+	},
+	version = 0,
+}

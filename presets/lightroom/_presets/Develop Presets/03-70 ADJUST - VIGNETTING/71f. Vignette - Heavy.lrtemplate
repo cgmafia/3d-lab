@@ -1,0 +1,16 @@
+s = {
+	id = "EDE744DD-E386-4281-A808-095EBF4517A0",
+	internalName = "06_Heavy Vignette",
+	title = "71f. Vignette - Heavy",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableLensCorrections = true,
+			ProcessVersion = "6.7",
+			VignetteAmount = -90,
+			VignetteMidpoint = 20,
+		},
+		uuid = "2EF8C41B-4EDB-453C-A3DE-C324474E4E8C",
+	},
+	version = 0,
+}

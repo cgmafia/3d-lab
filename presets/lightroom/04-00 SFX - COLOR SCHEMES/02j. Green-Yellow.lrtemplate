@@ -1,0 +1,19 @@
+s = {
+	id = "67745AAC-D83E-4991-A152-7EEB5FD37324",
+	internalName = "02j. Green/Yellow",
+	title = "02j. Green/Yellow",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 30,
+			SplitToningHighlightHue = 120,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 60,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "614970DD-C6CB-4079-9344-51DE2243F475",
+	},
+	version = 0,
+}

@@ -1,0 +1,14 @@
+s = {
+	id = "432B6420-452E-426B-A4FE-7DBE443DB71D",
+	internalName = "32 Heavy Contrast Fade",
+	title = "31. Contrast Fade - Max",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = -100,
+			ProcessVersion = "6.7",
+		},
+		uuid = "AB4C02A9-861E-423F-BA97-6E2AA56C6ABF",
+	},
+	version = 0,
+}

@@ -1,0 +1,48 @@
+s = {
+	id = "0EEB5E3D-52C0-4121-84D6-6FCA2488A1C1",
+	internalName = "00 Reset Neutral Curves (Standard)",
+	title = "00. RESET CURVE",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ProcessVersion = "6.7",
+			Saturation = 0,
+			ToneCurveName2012 = "Linear",
+			ToneCurvePV2012 = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Blue = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Green = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Red = {
+				0,
+				0,
+				255,
+				255,
+			},
+			Vibrance = 15,
+		},
+		uuid = "2B7BC903-41B1-40D0-904B-C8336DBB7A55",
+	},
+	version = 0,
+}

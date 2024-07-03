@@ -1,0 +1,13 @@
+s = {
+	id = "1E0D0BB7-FB03-45E2-9E3E-6DB0341AA4C2",
+	internalName = "10 <----------- COMPLIMENTARY",
+	title = "01 <------------ COMPLEMENTARY",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+		},
+		uuid = "385D9452-C827-44EC-93F0-FD750DE5E58F",
+	},
+	version = 0,
+}

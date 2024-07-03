@@ -1,0 +1,14 @@
+s = {
+	id = "38019B29-BAC0-4D6B-BE73-46FF794D409C",
+	internalName = "21 Shadows -43",
+	title = "21 Shadows -43",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Shadows2012 = -43,
+		},
+		uuid = "5DFE329E-1573-43B3-8023-CD069E536398",
+	},
+	version = 0,
+}

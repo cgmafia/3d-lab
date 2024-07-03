@@ -1,0 +1,19 @@
+s = {
+	id = "35BCCF4E-E0EF-49B0-A33F-8C93BD99AC87",
+	internalName = "33 Green/Green",
+	title = "03g. Green/Green",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 50,
+			SplitToningHighlightHue = 120,
+			SplitToningHighlightSaturation = 15,
+			SplitToningShadowHue = 120,
+			SplitToningShadowSaturation = 30,
+		},
+		uuid = "9A713D3E-3CE0-479E-B173-65F4A42DD2F4",
+	},
+	version = 0,
+}

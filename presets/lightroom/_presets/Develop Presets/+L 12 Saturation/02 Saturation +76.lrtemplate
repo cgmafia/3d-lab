@@ -1,0 +1,15 @@
+s = {
+	id = "153E300C-3125-4503-BA7D-CBF37E0C2C77",
+	internalName = "02 Saturation +76",
+	title = "02 Saturation +76",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ProcessVersion = "6.7",
+			Saturation = 76,
+		},
+		uuid = "E0322121-A15A-4144-B684-EB76C2CDD740",
+	},
+	version = 0,
+}

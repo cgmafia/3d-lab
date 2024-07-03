@@ -1,0 +1,13 @@
+s = {
+	id = "AB99B989-33D5-4A3E-8B8E-E6098B04C623",
+	internalName = "30 <------------------- Dark Washes",
+	title = "15 <---------------- DARK WASHES",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+		},
+		uuid = "7537F01A-F459-4A85-A34B-22C01D4449D4",
+	},
+	version = 0,
+}

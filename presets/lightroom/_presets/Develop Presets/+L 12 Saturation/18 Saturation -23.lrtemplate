@@ -1,0 +1,15 @@
+s = {
+	id = "DF054F89-4332-4931-BDC4-D5B65D4A6BA8",
+	internalName = "18 Saturation -23",
+	title = "18 Saturation -23",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ProcessVersion = "6.7",
+			Saturation = -23,
+		},
+		uuid = "4C74B575-DE81-4757-A267-D3E150A211A3",
+	},
+	version = 0,
+}

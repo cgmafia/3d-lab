@@ -1,0 +1,19 @@
+s = {
+	id = "83D15666-78AA-461A-A508-EE9E50841A22",
+	internalName = "62 Light Noise Reduction for Skin",
+	title = "62a. Skin Noise Reduction - Light",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 70,
+			LuminanceSmoothing = 15,
+			ProcessVersion = "6.7",
+		},
+		uuid = "0225B99E-F003-48D9-951B-45326133989E",
+	},
+	version = 0,
+}

@@ -1,0 +1,23 @@
+s = {
+	id = "531BDCBF-A252-4C9B-9454-182E1581F66B",
+	internalName = "70b. RESET VIGNETTING (Zeroed)",
+	title = "70. RESET ALL (Zeroed)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			EnableLensCorrections = true,
+			PostCropVignetteAmount = 0,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 50,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+			VignetteAmount = 0,
+			VignetteMidpoint = 50,
+		},
+		uuid = "B43DAC23-CD9F-46D0-AB75-E63051E5B627",
+	},
+	version = 0,
+}

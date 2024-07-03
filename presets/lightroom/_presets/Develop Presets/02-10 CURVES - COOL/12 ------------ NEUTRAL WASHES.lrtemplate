@@ -1,0 +1,13 @@
+s = {
+	id = "6E5BE319-6870-4EBE-96A6-60C63684E2DC",
+	internalName = "10 <------------------- Neutral Washes",
+	title = "12 <----------- NEUTRAL WASHES",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+		},
+		uuid = "8039E447-3C84-472C-AED9-BD199C78E6E6",
+	},
+	version = 0,
+}

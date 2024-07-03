@@ -1,0 +1,19 @@
+s = {
+	id = "289F87AD-6A64-43D8-A1F9-94A45504C635",
+	internalName = "31 Reset Noise Reduction (Standard)",
+	title = "60. RESET (Zeroed)",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 0,
+			ProcessVersion = "6.7",
+		},
+		uuid = "6C4C0035-0D56-4843-873D-CD3394D90B18",
+	},
+	version = 0,
+}

@@ -1,0 +1,15 @@
+s = {
+	id = "20F33FC9-14EF-4E7D-BB7F-5238730EFED1",
+	internalName = "06500",
+	title = "06500 (Cloudy)",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 6500,
+			Tint = 10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "B7473AD4-FC42-4CE5-AEE0-CF121CB89D8D",
+	},
+	version = 0,
+}

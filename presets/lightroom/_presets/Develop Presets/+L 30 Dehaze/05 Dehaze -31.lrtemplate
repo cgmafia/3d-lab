@@ -1,0 +1,15 @@
+s = {
+	id = "E27850DF-2B31-4DE0-8830-AD3E6A8FAFC9",
+	internalName = "05 Haze -31",
+	title = "05 Dehaze -31",
+	type = "Develop",
+	value = {
+		settings = {
+			Dehaze = -31,
+			EnableEffects = true,
+			ProcessVersion = "6.7",
+		},
+		uuid = "520E5A40-A693-4F5E-99D7-DAF25D9DEAF3",
+	},
+	version = 0,
+}

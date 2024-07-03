@@ -1,0 +1,15 @@
+s = {
+	id = "F1710AC6-F58F-4BE3-9ABE-750E64BF382F",
+	internalName = "11 Haze 3",
+	title = "11 Dehaze 3",
+	type = "Develop",
+	value = {
+		settings = {
+			Dehaze = 3,
+			EnableEffects = true,
+			ProcessVersion = "6.7",
+		},
+		uuid = "DB7CFCBA-3146-4040-8628-12BD4569284D",
+	},
+	version = 0,
+}

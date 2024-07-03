@@ -1,0 +1,18 @@
+s = {
+	id = "BF650691-2F39-4284-B184-9D43E7703602",
+	internalName = "14 Cool Shadows +10",
+	title = "14 Cool Shadows +10",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			SplitToningBalance = 60,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 0,
+			SplitToningShadowHue = 216,
+			SplitToningShadowSaturation = 10,
+		},
+		uuid = "EA47C5A9-79C4-4B85-B14A-40D690FFF6B1",
+	},
+	version = 0,
+}

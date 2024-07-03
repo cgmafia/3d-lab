@@ -1,0 +1,20 @@
+s = {
+	id = "62A6EBFD-1E3B-45E7-AF00-07C6AEC9E667",
+	internalName = "10_Heavy Square Vignette",
+	title = "72g. Square - Heavy",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -45,
+			PostCropVignetteFeather = 80,
+			PostCropVignetteHighlightContrast = 40,
+			PostCropVignetteMidpoint = 10,
+			PostCropVignetteRoundness = -40,
+			PostCropVignetteStyle = 2,
+			ProcessVersion = "6.7",
+		},
+		uuid = "EC1C27FC-BB57-4128-AE5A-354AE4DB8CF5",
+	},
+	version = 0,
+}

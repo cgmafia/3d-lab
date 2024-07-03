@@ -1,0 +1,15 @@
+s = {
+	id = "C549BDC6-C151-4992-B4DD-36B0BA8864DF",
+	internalName = "10 Vibrance +13",
+	title = "10 Vibrance +13",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ProcessVersion = "6.7",
+			Vibrance = 13,
+		},
+		uuid = "B28BA46F-6319-4AD1-AF7D-653924CE2496",
+	},
+	version = 0,
+}

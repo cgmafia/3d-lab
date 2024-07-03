@@ -1,0 +1,19 @@
+s = {
+	id = "699288C5-6D10-4E13-8890-74ADECD4BC46",
+	internalName = "15 Orange/Blue",
+	title = "01b. Orange/Blue",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 30,
+			SplitToningHighlightHue = 30,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 240,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "F7D5915E-A58C-457B-AD66-07D3C283703B",
+	},
+	version = 0,
+}

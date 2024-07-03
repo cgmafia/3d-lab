@@ -1,0 +1,14 @@
+s = {
+	id = "B6099608-B185-4EDD-BCB7-C3E1523BA271",
+	internalName = "12 Whites -47",
+	title = "12 Whites -47",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Whites2012 = -47,
+		},
+		uuid = "174B91BE-8A16-4175-86C3-CE98FA30483B",
+	},
+	version = 0,
+}

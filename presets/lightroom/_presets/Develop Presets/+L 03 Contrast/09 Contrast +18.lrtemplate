@@ -1,0 +1,13 @@
+s = {
+	id = "ABFD32BC-2DA6-4D1E-A686-B44A873A747D",
+	internalName = "17 Contrast +18",
+	title = "09 Contrast +18",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = 18,
+		},
+		uuid = "D02CE102-DCF8-41EA-8122-56A45F1ADB41",
+	},
+	version = 0,
+}

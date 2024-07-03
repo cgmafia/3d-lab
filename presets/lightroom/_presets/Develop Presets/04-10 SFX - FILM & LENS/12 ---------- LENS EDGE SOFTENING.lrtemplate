@@ -1,0 +1,13 @@
+s = {
+	id = "75DCD106-F2B5-40CB-A5BF-E7433B03D2DF",
+	internalName = "20 <-------------------- Edge",
+	title = "12 <--------- LENS EDGE SOFTENING",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+		},
+		uuid = "F1EA6ACC-C779-489A-85E3-87F07A60C88B",
+	},
+	version = 0,
+}

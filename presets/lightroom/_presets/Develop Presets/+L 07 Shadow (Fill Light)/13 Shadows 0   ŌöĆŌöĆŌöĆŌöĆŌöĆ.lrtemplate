@@ -1,0 +1,14 @@
+s = {
+	id = "E76D760A-D7BC-4BE6-8985-7E2D45640A1A",
+	internalName = "13 Shadows 0   ─────",
+	title = "13 Shadows 0   ─────",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Shadows2012 = 0,
+		},
+		uuid = "B1F225B8-4F7C-41B5-AB01-76D9C0E763AB",
+	},
+	version = 0,
+}

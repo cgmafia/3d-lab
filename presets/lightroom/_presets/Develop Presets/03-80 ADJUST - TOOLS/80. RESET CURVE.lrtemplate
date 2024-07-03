@@ -1,0 +1,45 @@
+s = {
+	id = "2380D604-C430-4005-B7BD-CBBE4CBA204A",
+	internalName = "81 Reset (Standard)",
+	title = "80. RESET CURVE",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ProcessVersion = "6.7",
+			ToneCurveName2012 = "Linear",
+			ToneCurvePV2012 = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Blue = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Green = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Red = {
+				0,
+				0,
+				255,
+				255,
+			},
+		},
+		uuid = "92D76069-7D1D-4AAE-ACF4-55121D1D4AC0",
+	},
+	version = 0,
+}

@@ -1,0 +1,13 @@
+s = {
+	id = "60A58F2B-A84C-4FC3-86C7-74402E9E948A",
+	internalName = "24 Clarity -76",
+	title = "24 Clarity -76",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = -76,
+		},
+		uuid = "37F6A8EF-B8DE-4D53-BB99-8176CF9A49D4",
+	},
+	version = 0,
+}

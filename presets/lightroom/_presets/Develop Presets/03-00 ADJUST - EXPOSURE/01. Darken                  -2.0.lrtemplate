@@ -1,0 +1,14 @@
+s = {
+	id = "509BB933-B090-440D-A3CE-7C739FC66309",
+	internalName = "01 Darken                  -2.0",
+	title = "01. Darken                  -2.0",
+	type = "Develop",
+	value = {
+		settings = {
+			Exposure2012 = -2,
+			ProcessVersion = "6.7",
+		},
+		uuid = "3EF3BEFF-83CE-40D0-9756-705F8A3D4B51",
+	},
+	version = 0,
+}

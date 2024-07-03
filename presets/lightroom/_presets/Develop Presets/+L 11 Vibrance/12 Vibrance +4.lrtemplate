@@ -1,0 +1,15 @@
+s = {
+	id = "1E1713BA-ED25-4442-89D7-FB704037F82F",
+	internalName = "12 Vibrance +4",
+	title = "12 Vibrance +4",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ProcessVersion = "6.7",
+			Vibrance = 4,
+		},
+		uuid = "EA3B3C84-CFEC-482D-B6CE-29CD8BECB98E",
+	},
+	version = 0,
+}

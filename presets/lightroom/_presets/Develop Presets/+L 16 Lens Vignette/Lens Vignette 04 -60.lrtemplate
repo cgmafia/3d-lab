@@ -1,0 +1,15 @@
+s = {
+	id = "F77BD1E5-2665-4BD7-A03A-F0AF460C2ED0",
+	internalName = "Lens Vignette -60",
+	title = "Lens Vignette 04 -60",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableVignettes = true,
+			VignetteAmount = -60,
+			VignetteMidpoint = 50,
+		},
+		uuid = "1AF4889D-EB01-4CF0-AFAD-937A94A377BE",
+	},
+	version = 0,
+}

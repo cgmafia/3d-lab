@@ -1,0 +1,14 @@
+s = {
+	id = "4165CB1F-53AA-41EE-9D3B-D1B94A6D9683",
+	internalName = "08 Blacks -23",
+	title = "08 Blacks -23",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -23,
+			ProcessVersion = "6.7",
+		},
+		uuid = "415C773C-F28F-4E1C-A312-78A313298D61",
+	},
+	version = 0,
+}

@@ -1,0 +1,20 @@
+s = {
+	id = "F60DC33E-AA71-4AFA-A2E6-0BBC54BCD443",
+	internalName = "12_Slide Film Edge Burn",
+	title = "72h. Slide Edge Burn (Black)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -80,
+			PostCropVignetteFeather = 15,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 10,
+			PostCropVignetteRoundness = -95,
+			PostCropVignetteStyle = 2,
+			ProcessVersion = "6.7",
+		},
+		uuid = "50885EB9-71C9-483E-BF79-CFF51D6CFE48",
+	},
+	version = 0,
+}

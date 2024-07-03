@@ -1,0 +1,14 @@
+s = {
+	id = "8364A97E-69CA-4C58-BAD7-AF2198FEF089",
+	internalName = "22 Whites +37",
+	title = "22 Whites +37",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Whites2012 = 37,
+		},
+		uuid = "5A1F2F14-466C-48D9-A577-17DF4B0D090B",
+	},
+	version = 0,
+}

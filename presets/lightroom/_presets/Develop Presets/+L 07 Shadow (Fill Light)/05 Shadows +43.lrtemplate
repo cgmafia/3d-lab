@@ -1,0 +1,14 @@
+s = {
+	id = "CDE54568-4CE3-4070-B5CA-E4C8A43EE28E",
+	internalName = "05 Shadows +43",
+	title = "05 Shadows +43",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Shadows2012 = 43,
+		},
+		uuid = "633A65A3-A93F-48A3-AACB-A941CF6D4295",
+	},
+	version = 0,
+}

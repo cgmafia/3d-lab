@@ -1,0 +1,14 @@
+s = {
+	id = "68B25700-5CD8-4B10-AC4E-C64DF94B0B36",
+	internalName = "21 Reset Detail (Standard)",
+	title = "24. Detail Boost - Light (Standard)",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 15,
+			ProcessVersion = "6.7",
+		},
+		uuid = "03C64834-5E06-4BD8-874C-A31D60842F7F",
+	},
+	version = 0,
+}

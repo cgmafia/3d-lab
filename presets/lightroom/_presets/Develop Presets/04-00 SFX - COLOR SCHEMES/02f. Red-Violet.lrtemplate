@@ -1,0 +1,19 @@
+s = {
+	id = "3229F741-E5CA-4727-A47B-D70334590649",
+	internalName = "02f. Red/Violet",
+	title = "02f. Red/Violet",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 30,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 300,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "51093911-7CCB-4FF7-A35B-C1CADA2D0E5C",
+	},
+	version = 0,
+}

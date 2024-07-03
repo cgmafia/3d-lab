@@ -1,0 +1,19 @@
+s = {
+	id = "18F07711-D4EF-4C32-AB54-1BBE61F5238A",
+	internalName = "08_Light Noise Reduction",
+	title = "61a. Noise Reduction - ISO 400",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 20,
+			ProcessVersion = "6.7",
+		},
+		uuid = "6351B379-013D-41EA-B7D4-6DD795E27072",
+	},
+	version = 0,
+}

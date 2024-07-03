@@ -1,0 +1,13 @@
+s = {
+	id = "AF0EE207-182D-4268-8AA3-08A1DC0B02F3",
+	internalName = "02 Contrast -76",
+	title = "24 Contrast -76",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = -76,
+		},
+		uuid = "4B092874-D23D-4EC2-B6F2-AD8E0C2D43C5",
+	},
+	version = 0,
+}

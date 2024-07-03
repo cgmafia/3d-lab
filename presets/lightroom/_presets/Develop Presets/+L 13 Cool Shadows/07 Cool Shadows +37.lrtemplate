@@ -1,0 +1,18 @@
+s = {
+	id = "B69D6BE2-E484-4346-B501-7BDEAAF101E1",
+	internalName = "07 Cool Shadows +37",
+	title = "07 Cool Shadows +37",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			SplitToningBalance = 60,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 0,
+			SplitToningShadowHue = 216,
+			SplitToningShadowSaturation = 37,
+		},
+		uuid = "6C50A304-A505-4B57-A493-06DF2382A32B",
+	},
+	version = 0,
+}

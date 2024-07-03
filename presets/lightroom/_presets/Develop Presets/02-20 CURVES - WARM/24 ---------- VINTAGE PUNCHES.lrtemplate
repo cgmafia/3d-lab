@@ -1,0 +1,13 @@
+s = {
+	id = "F9F5D90C-FB95-4B4F-82E9-7CC75BA32E4B",
+	internalName = "40 <--------- VINTAGE PUNCHES",
+	title = "24 <--------- VINTAGE PUNCHES",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+		},
+		uuid = "A02AFD22-AD33-47C9-A097-45F29782BAB4",
+	},
+	version = 0,
+}

@@ -1,0 +1,15 @@
+s = {
+	id = "79A997E6-3172-43F4-8D94-31AE7992CCF2",
+	internalName = "05500",
+	title = "05500 (Daylight)",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 5500,
+			Tint = 10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "63FE6EB0-3A3F-4A48-9D06-4737003158B5",
+	},
+	version = 0,
+}

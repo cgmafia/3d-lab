@@ -1,0 +1,19 @@
+s = {
+	id = "03BA8C62-98F5-4D3F-B463-9AE4E6129944",
+	internalName = "21 Yellow/Orange",
+	title = "02b. Yellow/Orange",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 30,
+			SplitToningHighlightHue = 60,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 30,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "43B18E7C-A83B-4970-9DEF-DBA520D2598E",
+	},
+	version = 0,
+}

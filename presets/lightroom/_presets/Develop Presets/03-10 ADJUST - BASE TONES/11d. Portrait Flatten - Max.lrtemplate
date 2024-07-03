@@ -1,0 +1,17 @@
+s = {
+	id = "E09794EB-452A-47FC-9595-FBB9DC2DF790",
+	internalName = "13 Portrait Flatten Heavy (Close Up)",
+	title = "11d. Portrait Flatten - Max",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 10,
+			Highlights2012 = -80,
+			ProcessVersion = "6.7",
+			Shadows2012 = 10,
+			Whites2012 = -50,
+		},
+		uuid = "4A794F4A-2A1F-4394-8F60-AF8E2977B213",
+	},
+	version = 0,
+}

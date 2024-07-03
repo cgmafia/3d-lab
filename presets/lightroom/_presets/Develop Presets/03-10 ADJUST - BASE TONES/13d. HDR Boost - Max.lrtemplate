@@ -1,0 +1,18 @@
+s = {
+	id = "8AD28327-F66D-4946-AD5A-9A4796C00FEC",
+	internalName = "15_Max Dynamic Range Boost",
+	title = "13d. HDR Boost - Max",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 100,
+			Contrast2012 = 100,
+			Highlights2012 = -100,
+			ProcessVersion = "6.7",
+			Shadows2012 = 100,
+			Whites2012 = -100,
+		},
+		uuid = "FA091152-4E44-4996-9907-7414E263DFB9",
+	},
+	version = 0,
+}

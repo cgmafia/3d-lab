@@ -1,0 +1,15 @@
+s = {
+	id = "F8087F96-8721-4D55-9043-CD189E69A479",
+	internalName = "43. Darken - Light (+10, -20)",
+	title = "43. Darken - Light (+10, -20)",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -20,
+			ProcessVersion = "6.7",
+			Shadows2012 = 10,
+		},
+		uuid = "CB7358C0-DF44-445D-BFCC-BB425F1E2225",
+	},
+	version = 0,
+}

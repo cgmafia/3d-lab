@@ -1,0 +1,15 @@
+s = {
+	id = "B5A1ACEA-7764-44F5-A5CC-ED8A8FAB1744",
+	internalName = "10500",
+	title = "10500",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 10500,
+			Tint = 10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "A4AB902E-BF11-488C-AA9B-A68821038CAE",
+	},
+	version = 0,
+}

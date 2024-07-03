@@ -1,0 +1,16 @@
+s = {
+	id = "7057151B-B3D9-451E-B3A4-F50D80C127D4",
+	internalName = "Copyrights © 2014 ~ HQLighroomPresets.com",
+	title = "Vintrochrome : Grain >>>>>>> ~ HQLightroomPresets",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 75,
+			GrainFrequency = 70,
+			GrainSize = 85,
+		},
+		uuid = "0F06EEBC-16D9-4DA9-930D-BF4B5B2E3BBB",
+	},
+	version = 0,
+}
